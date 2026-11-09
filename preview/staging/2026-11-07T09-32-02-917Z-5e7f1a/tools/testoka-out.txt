@@ -1,0 +1,5 @@
+assign-only
+SAF-OK count=2 e0type=Object[]
+FU-OK count=3
+STUB slug=okavango-delta safT=Object[] safC=2 fuC=3
+CALL-OK

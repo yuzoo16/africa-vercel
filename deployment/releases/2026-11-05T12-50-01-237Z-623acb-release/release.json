@@ -1,0 +1,9 @@
+{
+  "releaseId": "2026-11-05T12-50-01-237Z-623acb-release",
+  "sourceBuildId": "2026-11-05T12-50-01-237Z-623acb",
+  "preparedAt": "2026-11-05T13:03:16.254Z",
+  "deployed": false,
+  "productionTarget": null,
+  "rollbackReady": false,
+  "fileCount": 1791
+}

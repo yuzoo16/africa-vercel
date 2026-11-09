@@ -1,0 +1,3505 @@
+﻿[
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  850,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-safari/2-day-tanzania-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Tarangire elephants plus a crater descent - the fastest real safari in Tanzania.",
+        "overview":  "Mainland northern-circuit itinerary from Arusha: Tarangire, Ngorongoro and the Serengeti in cooker-cutter-free order - camp zone set by your month, not a template. A long-weekend format: tight, well-paced, and clear about what it skips. Route: Tarangire - Ngorongoro Crater over 2 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "2-Day Tanzania Safari: Tarangire \u0026 Crater",
+        "region":  "Tanzania Safari",
+        "relatedHubs":  [
+                            "/tanzania-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  2,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "2-Day Tanzania Safari: Tarangire \u0026 Crater",
+        "safariCategory":  "Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-safari/2-day-tanzania-safari/",
+        "metaDescription":  "2-day Tanzania safari. Route: Tarangire - Ngorongoro Crater over 2 days.",
+        "parks":  [
+                      "Tarangire",
+                      "Ngorongoro Crater"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  1250,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-safari/3-day-tanzania-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Three parks in three days - elephants, crater Big Five and Manyara\u0027s forest.",
+        "overview":  "Mainland northern-circuit itinerary from Arusha: Tarangire, Ngorongoro and the Serengeti in cooker-cutter-free order - camp zone set by your month, not a template. A focused taste: one region done properly rather than three rushed. Route: Tarangire - Ngorongoro Crater - Lake Manyara over 3 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "3-Day Tanzania Safari: Tarangire, Crater \u0026 Manyara",
+        "region":  "Tanzania Safari",
+        "relatedHubs":  [
+                            "/tanzania-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  3,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "3-Day Tanzania Safari: Tarangire, Crater \u0026 Manyara",
+        "safariCategory":  "Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-safari/3-day-tanzania-safari/",
+        "metaDescription":  "3-day Tanzania safari. Route: Tarangire - Ngorongoro Crater - Lake Manyara over 3 days.",
+        "parks":  [
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Lake Manyara"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  2500,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-safari/6-day-tanzania-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Five-day classic plus a second Serengeti day - the value sweet spot.",
+        "overview":  "Mainland northern-circuit itinerary from Arusha: Tarangire, Ngorongoro and the Serengeti in cooker-cutter-free order - camp zone set by your month, not a template. The classic length for one region - full days without filler. Route: Tarangire - Ngorongoro Crater - Central Serengeti over 6 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "6-Day Tanzania Safari: Northern Circuit Plus",
+        "region":  "Tanzania Safari",
+        "relatedHubs":  [
+                            "/tanzania-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  6,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "6-Day Tanzania Safari: Northern Circuit Plus",
+        "safariCategory":  "Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-safari/6-day-tanzania-safari/",
+        "metaDescription":  "6-day Tanzania safari. Route: Tarangire - Ngorongoro Crater - Central Serengeti over 6 days.",
+        "parks":  [
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  3500,
+        "safariType":  "migration",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-safari/8-day-tanzania-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Central plus northern (or Ndutu) Serengeti - Migration depth without rushing.",
+        "overview":  "Mainland northern-circuit itinerary from Arusha: Tarangire, Ngorongoro and the Serengeti in cooker-cutter-free order - camp zone set by your month, not a template. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Northern Serengeti over 8 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "8-Day Tanzania Safari: Two Serengeti Zones",
+        "region":  "Tanzania Safari",
+        "relatedHubs":  [
+                            "/tanzania-safari/",
+                            "/africa-migration-safaris/"
+                        ],
+        "duration_days":  8,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "8-Day Tanzania Safari: Two Serengeti Zones",
+        "safariCategory":  "Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-safari/8-day-tanzania-safari/",
+        "metaDescription":  "8-day Tanzania safari. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Northern Serengeti over 8 days.",
+        "parks":  [
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti",
+                      "Northern Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  3750,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-safari/9-day-tanzania-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Every northern park including Manyara, with three Serengeti nights.",
+        "overview":  "Mainland northern-circuit itinerary from Arusha: Tarangire, Ngorongoro and the Serengeti in cooker-cutter-free order - camp zone set by your month, not a template. Grand-tour depth: two regions or bush-plus-beach without rushing. Route: Lake Manyara - Tarangire - Ngorongoro Crater - Central Serengeti - Northern Serengeti over 9 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "9-Day Tanzania Safari: Grand Northern Circuit",
+        "region":  "Tanzania Safari",
+        "relatedHubs":  [
+                            "/tanzania-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  9,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "9-Day Tanzania Safari: Grand Northern Circuit",
+        "safariCategory":  "Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-safari/9-day-tanzania-safari/",
+        "metaDescription":  "9-day Tanzania safari. Route: Lake Manyara - Tarangire - Ngorongoro Crater - Central Serengeti - Northern Serengeti over 9 days.",
+        "parks":  [
+                      "Lake Manyara",
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti",
+                      "Northern Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  4150,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-safari/10-day-tanzania-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Ten days across five parks - the north without a single rushed transfer.",
+        "overview":  "Mainland northern-circuit itinerary from Arusha: Tarangire, Ngorongoro and the Serengeti in cooker-cutter-free order - camp zone set by your month, not a template. Grand-tour depth: two regions or bush-plus-beach without rushing. Route: Lake Manyara - Tarangire - Ngorongoro Crater - Central Serengeti - Northern Serengeti over 10 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "10-Day Tanzania Safari: North in Depth",
+        "region":  "Tanzania Safari",
+        "relatedHubs":  [
+                            "/tanzania-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  10,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "10-Day Tanzania Safari: North in Depth",
+        "safariCategory":  "Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-safari/10-day-tanzania-safari/",
+        "metaDescription":  "10-day Tanzania safari. Route: Lake Manyara - Tarangire - Ngorongoro Crater - Central Serengeti - Northern Serengeti over 10 days.",
+        "parks":  [
+                      "Lake Manyara",
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti",
+                      "Northern Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  4800,
+        "safariType":  "migration",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-safari/11-day-tanzania-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Adds the Western Corridor and Grumeti frontage to the grand north.",
+        "overview":  "Mainland northern-circuit itinerary from Arusha: Tarangire, Ngorongoro and the Serengeti in cooker-cutter-free order - camp zone set by your month, not a template. Grand-tour depth: two regions or bush-plus-beach without rushing. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Western Serengeti - Northern Serengeti over 11 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "11-Day Tanzania Safari: North + West",
+        "region":  "Tanzania Safari",
+        "relatedHubs":  [
+                            "/tanzania-safari/",
+                            "/africa-migration-safaris/"
+                        ],
+        "duration_days":  11,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "11-Day Tanzania Safari: North + West",
+        "safariCategory":  "Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-safari/11-day-tanzania-safari/",
+        "metaDescription":  "11-day Tanzania safari. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Western Serengeti - Northern Serengeti over 11 days.",
+        "parks":  [
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti",
+                      "Western Serengeti",
+                      "Northern Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  4950,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-safari/12-day-tanzania-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "The full northern arc plus Hadzabe cultural days and a rest buffer.",
+        "overview":  "Mainland northern-circuit itinerary from Arusha: Tarangire, Ngorongoro and the Serengeti in cooker-cutter-free order - camp zone set by your month, not a template. The ultimate unhurried format: everything, slowly, with contingency days built in. Route: Lake Manyara - Tarangire - Ngorongoro Crater - Central Serengeti - Western Serengeti - Northern Serengeti over 12 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "12-Day Tanzania Safari: Ultimate North",
+        "region":  "Tanzania Safari",
+        "relatedHubs":  [
+                            "/tanzania-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  12,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "12-Day Tanzania Safari: Ultimate North",
+        "safariCategory":  "Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-safari/12-day-tanzania-safari/",
+        "metaDescription":  "12-day Tanzania safari. Route: Lake Manyara - Tarangire - Ngorongoro Crater - Central Serengeti - Western Serengeti - Northern Serengeti over 12 days.",
+        "parks":  [
+                      "Lake Manyara",
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti",
+                      "Western Serengeti",
+                      "Northern Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  6450,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-safari/14-day-tanzania-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Northern icons plus a Ruaha fly-in finale - lions, dogs and solitude.",
+        "overview":  "Mainland northern-circuit itinerary from Arusha: Tarangire, Ngorongoro and the Serengeti in cooker-cutter-free order - camp zone set by your month, not a template. The ultimate unhurried format: everything, slowly, with contingency days built in. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Northern Serengeti - Ruaha over 14 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "14-Day Tanzania Safari: North + Ruaha Fly-In",
+        "region":  "Tanzania Safari",
+        "relatedHubs":  [
+                            "/tanzania-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  14,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "14-Day Tanzania Safari: North + Ruaha Fly-In",
+        "safariCategory":  "Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-safari/14-day-tanzania-safari/",
+        "metaDescription":  "14-day Tanzania safari. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Northern Serengeti - Ruaha over 14 days.",
+        "parks":  [
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti",
+                      "Northern Serengeti",
+                      "Ruaha"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  750,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-safari-from-zanzibar/1-day-safari-from-zanzibar",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Dawn flight, full Mikumi game drive, evening return - the only honest day trip.",
+        "overview":  "Zanzibar-origin fly-in safari: scheduled island-mainland flights both ends, guide waiting at arrivals, beach hotel holding your big bags. Safari first, sand after. A dawn-to-dusk strike: maximum wildlife per hour, honest about what fits. Route: Mikumi over 1 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "1-Day Safari from Zanzibar: Mikumi Day Trip",
+        "region":  "Safari from Zanzibar",
+        "relatedHubs":  [
+                            "/tanzania-safari-from-zanzibar/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  1,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "1-Day Safari from Zanzibar: Mikumi Day Trip",
+        "safariCategory":  "Safari from Zanzibar",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-safari-from-zanzibar/1-day-safari-from-zanzibar/",
+        "metaDescription":  "1-day safari from Zanzibar. Route: Mikumi over 1 days.",
+        "parks":  [
+                      "Mikumi"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  1150,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-safari-from-zanzibar/2-day-safari-from-zanzibar",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Boat safari plus game drives with one Nyerere night - the classic add-on.",
+        "overview":  "Zanzibar-origin fly-in safari: scheduled island-mainland flights both ends, guide waiting at arrivals, beach hotel holding your big bags. Safari first, sand after. A long-weekend format: tight, well-paced, and clear about what it skips. Route: Nyerere over 2 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "2-Day Safari from Zanzibar: Nyerere Overnight",
+        "region":  "Safari from Zanzibar",
+        "relatedHubs":  [
+                            "/tanzania-safari-from-zanzibar/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  2,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "2-Day Safari from Zanzibar: Nyerere Overnight",
+        "safariCategory":  "Safari from Zanzibar",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-safari-from-zanzibar/2-day-safari-from-zanzibar/",
+        "metaDescription":  "2-day safari from Zanzibar. Route: Nyerere over 2 days.",
+        "parks":  [
+                      "Nyerere"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  1550,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-safari-from-zanzibar/3-day-safari-from-zanzibar",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "River, road and foot - boats, drives and a walking safari in three days.",
+        "overview":  "Zanzibar-origin fly-in safari: scheduled island-mainland flights both ends, guide waiting at arrivals, beach hotel holding your big bags. Safari first, sand after. A focused taste: one region done properly rather than three rushed. Route: Nyerere over 3 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "3-Day Safari from Zanzibar: Nyerere + Walking",
+        "region":  "Safari from Zanzibar",
+        "relatedHubs":  [
+                            "/tanzania-safari-from-zanzibar/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  3,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "3-Day Safari from Zanzibar: Nyerere + Walking",
+        "safariCategory":  "Safari from Zanzibar",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-safari-from-zanzibar/3-day-safari-from-zanzibar/",
+        "metaDescription":  "3-day safari from Zanzibar. Route: Nyerere over 3 days.",
+        "parks":  [
+                      "Nyerere"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  2150,
+        "safariType":  "migration",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-safari-from-zanzibar/4-day-safari-from-zanzibar",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Direct to Seronera: two full Serengeti days plus crater descent.",
+        "overview":  "Zanzibar-origin fly-in safari: scheduled island-mainland flights both ends, guide waiting at arrivals, beach hotel holding your big bags. Safari first, sand after. A focused taste: one region done properly rather than three rushed. Route: Ngorongoro Crater - Central Serengeti over 4 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "4-Day Safari from Zanzibar: Serengeti Fly-In",
+        "region":  "Safari from Zanzibar",
+        "relatedHubs":  [
+                            "/tanzania-safari-from-zanzibar/",
+                            "/africa-migration-safaris/"
+                        ],
+        "duration_days":  4,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "4-Day Safari from Zanzibar: Serengeti Fly-In",
+        "safariCategory":  "Safari from Zanzibar",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-safari-from-zanzibar/4-day-safari-from-zanzibar/",
+        "metaDescription":  "4-day safari from Zanzibar. Route: Ngorongoro Crater - Central Serengeti over 4 days.",
+        "parks":  [
+                      "Ngorongoro Crater",
+                      "Central Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  2500,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-safari-from-zanzibar/5-day-safari-from-zanzibar",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "The real northern circuit, flown: Tarangire, crater and two Serengeti days.",
+        "overview":  "Zanzibar-origin fly-in safari: scheduled island-mainland flights both ends, guide waiting at arrivals, beach hotel holding your big bags. Safari first, sand after. The classic length for one region - full days without filler. Route: Tarangire - Ngorongoro Crater - Central Serengeti over 5 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "5-Day Safari from Zanzibar: Serengeti + Crater",
+        "region":  "Safari from Zanzibar",
+        "relatedHubs":  [
+                            "/tanzania-safari-from-zanzibar/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  5,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "5-Day Safari from Zanzibar: Serengeti + Crater",
+        "safariCategory":  "Safari from Zanzibar",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-safari-from-zanzibar/5-day-safari-from-zanzibar/",
+        "metaDescription":  "5-day safari from Zanzibar. Route: Tarangire - Ngorongoro Crater - Central Serengeti over 5 days.",
+        "parks":  [
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  3000,
+        "safariType":  "migration",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-safari-from-zanzibar/6-day-safari-from-zanzibar",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Three Serengeti nights positioned for herds, plus crater and Tarangire.",
+        "overview":  "Zanzibar-origin fly-in safari: scheduled island-mainland flights both ends, guide waiting at arrivals, beach hotel holding your big bags. Safari first, sand after. The classic length for one region - full days without filler. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Northern Serengeti over 6 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "6-Day Safari from Zanzibar: Migration Focus",
+        "region":  "Safari from Zanzibar",
+        "relatedHubs":  [
+                            "/tanzania-safari-from-zanzibar/",
+                            "/africa-migration-safaris/"
+                        ],
+        "duration_days":  6,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "6-Day Safari from Zanzibar: Migration Focus",
+        "safariCategory":  "Safari from Zanzibar",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-safari-from-zanzibar/6-day-safari-from-zanzibar/",
+        "metaDescription":  "6-day safari from Zanzibar. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Northern Serengeti over 6 days.",
+        "parks":  [
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti",
+                      "Northern Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  3450,
+        "safariType":  "migration",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-safari-from-zanzibar/7-day-safari-from-zanzibar",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "A full Migration-placed week from the island - no mainland town nights.",
+        "overview":  "Zanzibar-origin fly-in safari: scheduled island-mainland flights both ends, guide waiting at arrivals, beach hotel holding your big bags. Safari first, sand after. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Northern Serengeti over 7 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "7-Day Safari from Zanzibar: Full North",
+        "region":  "Safari from Zanzibar",
+        "relatedHubs":  [
+                            "/tanzania-safari-from-zanzibar/",
+                            "/africa-migration-safaris/"
+                        ],
+        "duration_days":  7,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "7-Day Safari from Zanzibar: Full North",
+        "safariCategory":  "Safari from Zanzibar",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-safari-from-zanzibar/7-day-safari-from-zanzibar/",
+        "metaDescription":  "7-day safari from Zanzibar. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Northern Serengeti over 7 days.",
+        "parks":  [
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti",
+                      "Northern Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  1550,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-safari-from-zanzibar/safari-zanzibar-to-tarangire",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Most wildlife per hour from the island: elephants and baobabs by afternoon.",
+        "overview":  "Zanzibar to Tarangire runs via Arusha (morning flight, two-hour drive): elephants and baobabs by afternoon. The most wildlife per hour of any Zanzibar add-on. A focused taste: one region done properly rather than three rushed. Route: Tarangire over 3 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "Safari from Zanzibar to Tarangire (3 Days)",
+        "region":  "Safari from Zanzibar",
+        "relatedHubs":  [
+                            "/tanzania-safari-from-zanzibar/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  3,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "Safari from Zanzibar to Tarangire (3 Days)",
+        "safariCategory":  "Safari from Zanzibar",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-safari-from-zanzibar/safari-zanzibar-to-tarangire/",
+        "metaDescription":  "Zanzibar to Tarangire safari. Route: Tarangire over 3 days.",
+        "parks":  [
+                      "Tarangire"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  2350,
+        "safariType":  "migration",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-safari-from-zanzibar/safari-zanzibar-to-serengeti",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Direct Seronera flights: big cats and herds with zero transit-town nights.",
+        "overview":  "Zanzibar to the Serengeti flies direct to Seronera strips or via Arusha: big cats and Migration herds with zero mainland overnights wasted in transit towns. A focused taste: one region done properly rather than three rushed. Route: Central Serengeti - Northern Serengeti over 4 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "Safari from Zanzibar to Serengeti (4 Days)",
+        "region":  "Safari from Zanzibar",
+        "relatedHubs":  [
+                            "/tanzania-safari-from-zanzibar/",
+                            "/africa-migration-safaris/"
+                        ],
+        "duration_days":  4,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "Safari from Zanzibar to Serengeti (4 Days)",
+        "safariCategory":  "Safari from Zanzibar",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-safari-from-zanzibar/safari-zanzibar-to-serengeti/",
+        "metaDescription":  "Zanzibar to Serengeti safari. Route: Central Serengeti - Northern Serengeti over 4 days.",
+        "parks":  [
+                      "Central Serengeti",
+                      "Northern Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  1550,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-safari-from-zanzibar/safari-zanzibar-to-ngorongoro",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Highlands overnight plus gate-open crater descent - Big Five from the beach.",
+        "overview":  "Zanzibar to Ngorongoro pairs an Arusha flight with a highlands overnight for a gate-open crater descent - the densest Big Five day in Africa, from the beach. A focused taste: one region done properly rather than three rushed. Route: Tarangire - Ngorongoro Crater over 3 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "Safari from Zanzibar to Ngorongoro (3 Days)",
+        "region":  "Safari from Zanzibar",
+        "relatedHubs":  [
+                            "/tanzania-safari-from-zanzibar/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  3,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "Safari from Zanzibar to Ngorongoro (3 Days)",
+        "safariCategory":  "Safari from Zanzibar",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-safari-from-zanzibar/safari-zanzibar-to-ngorongoro/",
+        "metaDescription":  "Zanzibar to Ngorongoro safari. Route: Tarangire - Ngorongoro Crater over 3 days.",
+        "parks":  [
+                      "Tarangire",
+                      "Ngorongoro Crater"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  1500,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-safari-from-zanzibar/safari-zanzibar-to-nyerere",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Shortest full safari from the island: boats, drives and walking country.",
+        "overview":  "Zanzibar to Nyerere is the shortest full safari from the island: 30-minute hop, river boats, game drives and walking country in Africa\u0027s largest reserve. A focused taste: one region done properly rather than three rushed. Route: Nyerere over 3 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "Safari from Zanzibar to Nyerere (3 Days)",
+        "region":  "Safari from Zanzibar",
+        "relatedHubs":  [
+                            "/tanzania-safari-from-zanzibar/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  3,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "Safari from Zanzibar to Nyerere (3 Days)",
+        "safariCategory":  "Safari from Zanzibar",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-safari-from-zanzibar/safari-zanzibar-to-nyerere/",
+        "metaDescription":  "Zanzibar to Nyerere (Selous) safari. Route: Nyerere over 3 days.",
+        "parks":  [
+                      "Nyerere"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  1100,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-safari-from-zanzibar/safari-zanzibar-to-mikumi",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "The classic beach-plus-bush add-on: lions by lunch, back for sunset.",
+        "overview":  "Zanzibar to Mikumi is the classic beach-plus-bush add-on: 30-minute flight, lions and elephants by lunch, back for sunset cocktails. A long-weekend format: tight, well-paced, and clear about what it skips. Route: Mikumi over 2 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "Safari from Zanzibar to Mikumi (2 Days)",
+        "region":  "Safari from Zanzibar",
+        "relatedHubs":  [
+                            "/tanzania-safari-from-zanzibar/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  2,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "Safari from Zanzibar to Mikumi (2 Days)",
+        "safariCategory":  "Safari from Zanzibar",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-safari-from-zanzibar/safari-zanzibar-to-mikumi/",
+        "metaDescription":  "Zanzibar to Mikumi safari. Route: Mikumi over 2 days.",
+        "parks":  [
+                      "Mikumi"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  1800,
+        "safariType":  "migration",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-migration-safari/4-day-migration-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "One-zone Migration strike: Ndutu calving or northern crossings.",
+        "overview":  "Season-placed Migration safari camping inside the herd zone of your month - mobile camps near the action, full-day picnic drives, crossings or calving focus. A focused taste: one region done properly rather than three rushed. Route: Ndutu / Southern Serengeti - Central Serengeti over 4 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "4-Day Tanzania Migration Safari",
+        "region":  "Tanzania Migration Safari",
+        "relatedHubs":  [
+                            "/tanzania-migration-safari/",
+                            "/africa-migration-safaris/"
+                        ],
+        "duration_days":  4,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "4-Day Tanzania Migration Safari",
+        "safariCategory":  "Tanzania Migration Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-migration-safari/4-day-migration-safari/",
+        "metaDescription":  "4-day Migration safari. Route: Ndutu / Southern Serengeti - Central Serengeti over 4 days.",
+        "parks":  [
+                      "Ndutu / Southern Serengeti",
+                      "Central Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  2300,
+        "safariType":  "migration",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-migration-safari/5-day-migration-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Crater plus three herd-zone days - focused Migration long weekend.",
+        "overview":  "Season-placed Migration safari camping inside the herd zone of your month - mobile camps near the action, full-day picnic drives, crossings or calving focus. The classic length for one region - full days without filler. Route: Ngorongoro Crater - Ndutu / Southern Serengeti - Central Serengeti over 5 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "5-Day Tanzania Migration Safari",
+        "region":  "Tanzania Migration Safari",
+        "relatedHubs":  [
+                            "/tanzania-migration-safari/",
+                            "/africa-migration-safaris/"
+                        ],
+        "duration_days":  5,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "5-Day Tanzania Migration Safari",
+        "safariCategory":  "Tanzania Migration Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-migration-safari/5-day-migration-safari/",
+        "metaDescription":  "5-day Migration safari. Route: Ngorongoro Crater - Ndutu / Southern Serengeti - Central Serengeti over 5 days.",
+        "parks":  [
+                      "Ngorongoro Crater",
+                      "Ndutu / Southern Serengeti",
+                      "Central Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  2750,
+        "safariType":  "migration",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-migration-safari/6-day-migration-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Two-zone Migration: crater, central plus Ndutu or north by season.",
+        "overview":  "Season-placed Migration safari camping inside the herd zone of your month - mobile camps near the action, full-day picnic drives, crossings or calving focus. The classic length for one region - full days without filler. Route: Ngorongoro Crater - Central Serengeti - Northern Serengeti over 6 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "6-Day Tanzania Migration Safari",
+        "region":  "Tanzania Migration Safari",
+        "relatedHubs":  [
+                            "/tanzania-migration-safari/",
+                            "/africa-migration-safaris/"
+                        ],
+        "duration_days":  6,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "6-Day Tanzania Migration Safari",
+        "safariCategory":  "Tanzania Migration Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-migration-safari/6-day-migration-safari/",
+        "metaDescription":  "6-day Migration safari. Route: Ngorongoro Crater - Central Serengeti - Northern Serengeti over 6 days.",
+        "parks":  [
+                      "Ngorongoro Crater",
+                      "Central Serengeti",
+                      "Northern Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  3200,
+        "safariType":  "migration",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-migration-safari/7-day-migration-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "The definitive Migration week: camp follows the herds, picnic lunches out.",
+        "overview":  "Season-placed Migration safari camping inside the herd zone of your month - mobile camps near the action, full-day picnic drives, crossings or calving focus. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Northern Serengeti over 7 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "7-Day Tanzania Migration Safari",
+        "region":  "Tanzania Migration Safari",
+        "relatedHubs":  [
+                            "/tanzania-migration-safari/",
+                            "/africa-migration-safaris/"
+                        ],
+        "duration_days":  7,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "7-Day Tanzania Migration Safari",
+        "safariCategory":  "Tanzania Migration Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-migration-safari/7-day-migration-safari/",
+        "metaDescription":  "7-day Migration safari. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Northern Serengeti over 7 days.",
+        "parks":  [
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti",
+                      "Northern Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  3650,
+        "safariType":  "migration",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-migration-safari/8-day-migration-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Two full zones plus buffer: e.g. Ndutu and central, or west and north.",
+        "overview":  "Season-placed Migration safari camping inside the herd zone of your month - mobile camps near the action, full-day picnic drives, crossings or calving focus. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Ngorongoro Crater - Ndutu / Southern Serengeti - Central Serengeti - Northern Serengeti over 8 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "8-Day Tanzania Migration Safari",
+        "region":  "Tanzania Migration Safari",
+        "relatedHubs":  [
+                            "/tanzania-migration-safari/",
+                            "/africa-migration-safaris/"
+                        ],
+        "duration_days":  8,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "8-Day Tanzania Migration Safari",
+        "safariCategory":  "Tanzania Migration Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-migration-safari/8-day-migration-safari/",
+        "metaDescription":  "8-day Migration safari. Route: Ngorongoro Crater - Ndutu / Southern Serengeti - Central Serengeti - Northern Serengeti over 8 days.",
+        "parks":  [
+                      "Ngorongoro Crater",
+                      "Ndutu / Southern Serengeti",
+                      "Central Serengeti",
+                      "Northern Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  4750,
+        "safariType":  "migration",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-migration-safari/10-day-migration-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "South-to-north with the herds: calving grounds to river crossings.",
+        "overview":  "Season-placed Migration safari camping inside the herd zone of your month - mobile camps near the action, full-day picnic drives, crossings or calving focus. Grand-tour depth: two regions or bush-plus-beach without rushing. Route: Ndutu / Southern Serengeti - Central Serengeti - Western Serengeti - Northern Serengeti over 10 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "10-Day Tanzania Migration Grand Safari",
+        "region":  "Tanzania Migration Safari",
+        "relatedHubs":  [
+                            "/tanzania-migration-safari/",
+                            "/africa-migration-safaris/"
+                        ],
+        "duration_days":  10,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "10-Day Tanzania Migration Grand Safari",
+        "safariCategory":  "Tanzania Migration Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-migration-safari/10-day-migration-safari/",
+        "metaDescription":  "10-day Migration safari. Route: Ndutu / Southern Serengeti - Central Serengeti - Western Serengeti - Northern Serengeti over 10 days.",
+        "parks":  [
+                      "Ndutu / Southern Serengeti",
+                      "Central Serengeti",
+                      "Western Serengeti",
+                      "Northern Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  700,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "southern-tanzania-safari/2-day-mikumi-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Lions and elephants from Dar - road or hop, one night, full days.",
+        "overview":  "Dar es Salaam-gateway southern taste: road or short hop to Mikumi\u0027s lions, elephants and hippo pools. Ideal bolted to beach days. A long-weekend format: tight, well-paced, and clear about what it skips. Route: Mikumi over 2 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "2-Day Mikumi Safari from Dar es Salaam",
+        "region":  "Southern Tanzania Safari",
+        "relatedHubs":  [
+                            "/southern-tanzania-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  2,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "2-Day Mikumi Safari from Dar es Salaam",
+        "safariCategory":  "Southern Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/southern-tanzania-safari/2-day-mikumi-safari/",
+        "metaDescription":  "2-day Mikumi safari. Route: Mikumi over 2 days.",
+        "parks":  [
+                      "Mikumi"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  1050,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "southern-tanzania-safari/3-day-mikumi-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Two full Mikumi days with a Udzungwa waterfall option.",
+        "overview":  "Dar es Salaam-gateway southern taste: road or short hop to Mikumi\u0027s lions, elephants and hippo pools. Ideal bolted to beach days. A focused taste: one region done properly rather than three rushed. Route: Mikumi over 3 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "3-Day Mikumi Safari",
+        "region":  "Southern Tanzania Safari",
+        "relatedHubs":  [
+                            "/southern-tanzania-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  3,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "3-Day Mikumi Safari",
+        "safariCategory":  "Southern Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/southern-tanzania-safari/3-day-mikumi-safari/",
+        "metaDescription":  "3-day Mikumi safari. Route: Mikumi over 3 days.",
+        "parks":  [
+                      "Mikumi"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  1400,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "southern-tanzania-safari/4-day-mikumi-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Savanna plus forest hiking: game drives and waterfall trails.",
+        "overview":  "Dar es Salaam-gateway southern taste: road or short hop to Mikumi\u0027s lions, elephants and hippo pools. Ideal bolted to beach days. A focused taste: one region done properly rather than three rushed. Route: Mikumi - Udzungwa over 4 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "4-Day Mikumi + Udzungwa Safari",
+        "region":  "Southern Tanzania Safari",
+        "relatedHubs":  [
+                            "/southern-tanzania-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  4,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "4-Day Mikumi + Udzungwa Safari",
+        "safariCategory":  "Southern Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/southern-tanzania-safari/4-day-mikumi-safari/",
+        "metaDescription":  "4-day Mikumi safari. Route: Mikumi - Udzungwa over 4 days.",
+        "parks":  [
+                      "Mikumi",
+                      "Udzungwa"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  2000,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "southern-tanzania-safari/5-day-mikumi-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "South-east pairing: Mikumi lions plus Nyerere boats.",
+        "overview":  "Dar es Salaam-gateway southern taste: road or short hop to Mikumi\u0027s lions, elephants and hippo pools. Ideal bolted to beach days. The classic length for one region - full days without filler. Route: Mikumi - Nyerere over 5 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "5-Day Mikumi \u0026 Nyerere Combo",
+        "region":  "Southern Tanzania Safari",
+        "relatedHubs":  [
+                            "/southern-tanzania-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  5,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "5-Day Mikumi \u0026 Nyerere Combo",
+        "safariCategory":  "Southern Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/southern-tanzania-safari/5-day-mikumi-safari/",
+        "metaDescription":  "5-day Mikumi safari. Route: Mikumi - Nyerere over 5 days.",
+        "parks":  [
+                      "Mikumi",
+                      "Nyerere"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  1450,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "southern-tanzania-safari/3-day-nyerere-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Rufiji boat plus game drives - Nyerere\u0027s essence in three days.",
+        "overview":  "Nyerere immersion: Rufiji boats, 4x4 drives and walking safaris in Africa\u0027s largest reserve - wild dogs possible, crowds impossible. A focused taste: one region done properly rather than three rushed. Route: Nyerere over 3 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "3-Day Nyerere Safari: Boats \u0026 Drives",
+        "region":  "Southern Tanzania Safari",
+        "relatedHubs":  [
+                            "/southern-tanzania-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  3,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "3-Day Nyerere Safari: Boats \u0026 Drives",
+        "safariCategory":  "Southern Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/southern-tanzania-safari/3-day-nyerere-safari/",
+        "metaDescription":  "3-day Nyerere safari. Route: Nyerere over 3 days.",
+        "parks":  [
+                      "Nyerere"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  1900,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "southern-tanzania-safari/4-day-nyerere-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Boats, drives and a walking safari - the full Nyerere trilogy.",
+        "overview":  "Nyerere immersion: Rufiji boats, 4x4 drives and walking safaris in Africa\u0027s largest reserve - wild dogs possible, crowds impossible. A focused taste: one region done properly rather than three rushed. Route: Nyerere over 4 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "4-Day Nyerere Safari: River, Road \u0026 Foot",
+        "region":  "Southern Tanzania Safari",
+        "relatedHubs":  [
+                            "/southern-tanzania-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  4,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "4-Day Nyerere Safari: River, Road \u0026 Foot",
+        "safariCategory":  "Southern Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/southern-tanzania-safari/4-day-nyerere-safari/",
+        "metaDescription":  "4-day Nyerere safari. Route: Nyerere over 4 days.",
+        "parks":  [
+                      "Nyerere"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  2300,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "southern-tanzania-safari/5-day-nyerere-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Two boat days, two drive sectors plus walking - wild-dog odds rise.",
+        "overview":  "Nyerere immersion: Rufiji boats, 4x4 drives and walking safaris in Africa\u0027s largest reserve - wild dogs possible, crowds impossible. The classic length for one region - full days without filler. Route: Nyerere over 5 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "5-Day Nyerere Safari in Depth",
+        "region":  "Southern Tanzania Safari",
+        "relatedHubs":  [
+                            "/southern-tanzania-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  5,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "5-Day Nyerere Safari in Depth",
+        "safariCategory":  "Southern Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/southern-tanzania-safari/5-day-nyerere-safari/",
+        "metaDescription":  "5-day Nyerere safari. Route: Nyerere over 5 days.",
+        "parks":  [
+                      "Nyerere"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  2600,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "southern-tanzania-safari/6-day-nyerere-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Deep Nyerere plus Mikumi lions - the south-east grand.",
+        "overview":  "Nyerere immersion: Rufiji boats, 4x4 drives and walking safaris in Africa\u0027s largest reserve - wild dogs possible, crowds impossible. The classic length for one region - full days without filler. Route: Nyerere - Mikumi over 6 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "6-Day Nyerere + Mikumi Safari",
+        "region":  "Southern Tanzania Safari",
+        "relatedHubs":  [
+                            "/southern-tanzania-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  6,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "6-Day Nyerere + Mikumi Safari",
+        "safariCategory":  "Southern Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/southern-tanzania-safari/6-day-nyerere-safari/",
+        "metaDescription":  "6-day Nyerere safari. Route: Nyerere - Mikumi over 6 days.",
+        "parks":  [
+                      "Nyerere",
+                      "Mikumi"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  2600,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "southern-tanzania-safari/5-day-ruaha-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Prides, dogs and baobabs - three full Ruaha days by air.",
+        "overview":  "Fly-in Ruaha expedition: huge lion prides, wild-dog packs and 570 bird species with a fraction of northern visitors. The classic length for one region - full days without filler. Route: Ruaha over 5 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "5-Day Ruaha Safari (Fly-In)",
+        "region":  "Southern Tanzania Safari",
+        "relatedHubs":  [
+                            "/southern-tanzania-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  5,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "5-Day Ruaha Safari (Fly-In)",
+        "safariCategory":  "Southern Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/southern-tanzania-safari/5-day-ruaha-safari/",
+        "metaDescription":  "5-day Ruaha safari. Route: Ruaha over 5 days.",
+        "parks":  [
+                      "Ruaha"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  3400,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "southern-tanzania-safari/7-day-ruaha-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Five Ruaha days plus forest hiking - predators and primates.",
+        "overview":  "Fly-in Ruaha expedition: huge lion prides, wild-dog packs and 570 bird species with a fraction of northern visitors. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Ruaha - Udzungwa over 7 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "7-Day Ruaha + Udzungwa Safari",
+        "region":  "Southern Tanzania Safari",
+        "relatedHubs":  [
+                            "/southern-tanzania-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  7,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "7-Day Ruaha + Udzungwa Safari",
+        "safariCategory":  "Southern Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/southern-tanzania-safari/7-day-ruaha-safari/",
+        "metaDescription":  "7-day Ruaha safari. Route: Ruaha - Udzungwa over 7 days.",
+        "parks":  [
+                      "Ruaha",
+                      "Udzungwa"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  4700,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "southern-tanzania-safari/10-day-southern-tanzania",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "The complete wild south by light aircraft - no crowds, all ecosystems.",
+        "overview":  "The complete wild south: Ruaha plus Nyerere by light aircraft - predators, rivers, walks and boats in one remote arc. Grand-tour depth: two regions or bush-plus-beach without rushing. Route: Ruaha - Nyerere over 10 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "10-Day Southern Tanzania Grand: Ruaha + Nyerere",
+        "region":  "Southern Tanzania Safari",
+        "relatedHubs":  [
+                            "/southern-tanzania-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  10,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "10-Day Southern Tanzania Grand: Ruaha + Nyerere",
+        "safariCategory":  "Southern Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/southern-tanzania-safari/10-day-southern-tanzania/",
+        "metaDescription":  "10-day southern Tanzania safari. Route: Ruaha - Nyerere over 10 days.",
+        "parks":  [
+                      "Ruaha",
+                      "Nyerere"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  2600,
+        "safariType":  "honeymoon",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-honeymoon-safari/5-day-tanzania-honeymoon",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Icons plus romance in five days - crater, Serengeti, bush dinner.",
+        "overview":  "Honeymoon-paced northern circuit: private vehicle, plunge-pool suites where they count, bush dinner arranged, and beach-ready finish options. The classic length for one region - full days without filler. Route: Tarangire - Ngorongoro Crater - Central Serengeti over 5 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "5-Day Tanzania Honeymoon Safari",
+        "region":  "Tanzania Honeymoon Safari",
+        "relatedHubs":  [
+                            "/tanzania-honeymoon-safari/",
+                            "/africa-honeymoon-safaris/"
+                        ],
+        "duration_days":  5,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "5-Day Tanzania Honeymoon Safari",
+        "safariCategory":  "Tanzania Honeymoon Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-honeymoon-safari/5-day-tanzania-honeymoon/",
+        "metaDescription":  "5-day Tanzania honeymoon. Route: Tarangire - Ngorongoro Crater - Central Serengeti over 5 days.",
+        "parks":  [
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  3600,
+        "safariType":  "honeymoon",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-honeymoon-safari/7-day-tanzania-honeymoon",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Migration-paced romance: herd-zone camp, crater suite, lantern dinners.",
+        "overview":  "Honeymoon-paced northern circuit: private vehicle, plunge-pool suites where they count, bush dinner arranged, and beach-ready finish options. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Northern Serengeti over 7 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "7-Day Tanzania Honeymoon Safari",
+        "region":  "Tanzania Honeymoon Safari",
+        "relatedHubs":  [
+                            "/tanzania-honeymoon-safari/",
+                            "/africa-honeymoon-safaris/"
+                        ],
+        "duration_days":  7,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "7-Day Tanzania Honeymoon Safari",
+        "safariCategory":  "Tanzania Honeymoon Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-honeymoon-safari/7-day-tanzania-honeymoon/",
+        "metaDescription":  "7-day Tanzania honeymoon. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Northern Serengeti over 7 days.",
+        "parks":  [
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti",
+                      "Northern Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  5500,
+        "safariType":  "honeymoon",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-honeymoon-safari/10-day-tanzania-honeymoon",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Six safari days plus four Zanzibar nights - the full romance arc.",
+        "overview":  "Honeymoon-paced northern circuit: private vehicle, plunge-pool suites where they count, bush dinner arranged, and beach-ready finish options. Grand-tour depth: two regions or bush-plus-beach without rushing. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Zanzibar over 10 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "10-Day Tanzania Honeymoon + Zanzibar",
+        "region":  "Tanzania Honeymoon Safari",
+        "relatedHubs":  [
+                            "/tanzania-honeymoon-safari/",
+                            "/africa-honeymoon-safaris/"
+                        ],
+        "duration_days":  10,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "10-Day Tanzania Honeymoon + Zanzibar",
+        "safariCategory":  "Tanzania Honeymoon Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-honeymoon-safari/10-day-tanzania-honeymoon/",
+        "metaDescription":  "10-day Tanzania honeymoon + Zanzibar. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Zanzibar over 10 days.",
+        "parks":  [
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti",
+                      "Zanzibar"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  5600,
+        "safariType":  "luxury",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-luxury-safari/7-day-luxury-serengeti",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Migration camp plus crater suite - flying over driving.",
+        "overview":  "Fly-in luxury across the north: light aircraft between camps, Migration-zone positioning, crater-rim suite, Zanzibar royalty on the long format. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Ngorongoro Crater - Central Serengeti - Northern Serengeti over 7 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "7-Day Luxury Serengeti Safari (Fly-In)",
+        "region":  "Tanzania Luxury Safari",
+        "relatedHubs":  [
+                            "/tanzania-luxury-safari/",
+                            "/africa-luxury-safaris/"
+                        ],
+        "duration_days":  7,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "7-Day Luxury Serengeti Safari (Fly-In)",
+        "safariCategory":  "Tanzania Luxury Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-luxury-safari/7-day-luxury-serengeti/",
+        "metaDescription":  "7-day luxury Serengeti safari. Route: Ngorongoro Crater - Central Serengeti - Northern Serengeti over 7 days.",
+        "parks":  [
+                      "Ngorongoro Crater",
+                      "Central Serengeti",
+                      "Northern Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  8150,
+        "safariType":  "luxury",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-luxury-safari/10-day-luxury-zanzibar",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Icons by air, island royalty after - the statement trip.",
+        "overview":  "Fly-in luxury across the north: light aircraft between camps, Migration-zone positioning, crater-rim suite, Zanzibar royalty on the long format. Grand-tour depth: two regions or bush-plus-beach without rushing. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Zanzibar over 10 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "10-Day Luxury Tanzania + Zanzibar",
+        "region":  "Tanzania Luxury Safari",
+        "relatedHubs":  [
+                            "/tanzania-luxury-safari/",
+                            "/africa-luxury-safaris/"
+                        ],
+        "duration_days":  10,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "10-Day Luxury Tanzania + Zanzibar",
+        "safariCategory":  "Tanzania Luxury Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-luxury-safari/10-day-luxury-zanzibar/",
+        "metaDescription":  "10-day luxury Tanzania + Zanzibar. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Zanzibar over 10 days.",
+        "parks":  [
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti",
+                      "Zanzibar"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  2500,
+        "safariType":  "family",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-family-safari/6-day-tanzania-family",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Kid-paced circuit: pools, short drives, crater day, Migration taste.",
+        "overview":  "Kid-paced northern circuit: pools at every stop, shortened drive days, private vehicle for nap-and-snack flexibility. The classic length for one region - full days without filler. Route: Tarangire - Ngorongoro Crater - Central Serengeti over 6 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "6-Day Tanzania Family Safari",
+        "region":  "Tanzania Family Safari",
+        "relatedHubs":  [
+                            "/tanzania-family-safari/",
+                            "/africa-family-safaris/"
+                        ],
+        "duration_days":  6,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "6-Day Tanzania Family Safari",
+        "safariCategory":  "Tanzania Family Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-family-safari/6-day-tanzania-family/",
+        "metaDescription":  "6-day Tanzania family safari. Route: Tarangire - Ngorongoro Crater - Central Serengeti over 6 days.",
+        "parks":  [
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  3650,
+        "safariType":  "family",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-family-safari/8-day-tanzania-family",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Safari then sand - the trip kids talk about for years.",
+        "overview":  "Kid-paced northern circuit: pools at every stop, shortened drive days, private vehicle for nap-and-snack flexibility. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Zanzibar over 8 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "8-Day Tanzania Family Safari + Zanzibar",
+        "region":  "Tanzania Family Safari",
+        "relatedHubs":  [
+                            "/tanzania-family-safari/",
+                            "/africa-family-safaris/"
+                        ],
+        "duration_days":  8,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "8-Day Tanzania Family Safari + Zanzibar",
+        "safariCategory":  "Tanzania Family Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-family-safari/8-day-tanzania-family/",
+        "metaDescription":  "8-day Tanzania family + Zanzibar. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Zanzibar over 8 days.",
+        "parks":  [
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti",
+                      "Zanzibar"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  4650,
+        "safariType":  "photographic",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-photographic-safari/8-day-photographic-serengeti",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Light-chasing Migration photography with private vehicle and guide.",
+        "overview":  "Camera-first Serengeti: private vehicle, extra seat row, beanbags, full-day light-chasing drives in calving or crossing season. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Ndutu / Southern Serengeti - Central Serengeti - Northern Serengeti over 8 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "8-Day Photographic Serengeti Safari",
+        "region":  "Tanzania Photographic Safari",
+        "relatedHubs":  [
+                            "/tanzania-photographic-safari/",
+                            "/africa-photographic-safaris/"
+                        ],
+        "duration_days":  8,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "8-Day Photographic Serengeti Safari",
+        "safariCategory":  "Tanzania Photographic Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-photographic-safari/8-day-photographic-serengeti/",
+        "metaDescription":  "8-day photographic Serengeti. Route: Ndutu / Southern Serengeti - Central Serengeti - Northern Serengeti over 8 days.",
+        "parks":  [
+                      "Ndutu / Southern Serengeti",
+                      "Central Serengeti",
+                      "Northern Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  1800,
+        "safariType":  "budget",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-budget-safari/6-day-budget-camping",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Full northern circuit under canvas - same parks, half the bed cost.",
+        "overview":  "Public-campsite camping circuit: same parks, same drives, same crater descent - canvas, cook crew and green-season rates halving bed costs. The classic length for one region - full days without filler. Route: Tarangire - Ngorongoro Crater - Central Serengeti over 6 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "6-Day Tanzania Budget Camping Safari",
+        "region":  "Tanzania Budget Safari",
+        "relatedHubs":  [
+                            "/tanzania-budget-safari/",
+                            "/africa-budget-safaris/"
+                        ],
+        "duration_days":  6,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "6-Day Tanzania Budget Camping Safari",
+        "safariCategory":  "Tanzania Budget Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-budget-safari/6-day-budget-camping/",
+        "metaDescription":  "6-day budget camping safari. Route: Tarangire - Ngorongoro Crater - Central Serengeti over 6 days.",
+        "parks":  [
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  5700,
+        "safariType":  "beach",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-beach-and-safari/10-day-safari-zanzibar",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Six bush days, four beach nights, one direct Serengeti-Zanzibar flight.",
+        "overview":  "Bush-to-beach classic: northern icons then a direct Serengeti-Zanzibar flight. No backtracking, no wasted nights. Grand-tour depth: two regions or bush-plus-beach without rushing. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Zanzibar over 10 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "10-Day Tanzania Safari + Zanzibar Holiday",
+        "region":  "Tanzania Beach and Safari",
+        "relatedHubs":  [
+                            "/tanzania-beach-and-safari/",
+                            "/africa-safari-from-zanzibar/"
+                        ],
+        "duration_days":  10,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "10-Day Tanzania Safari + Zanzibar Holiday",
+        "safariCategory":  "Tanzania Beach and Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-beach-and-safari/10-day-safari-zanzibar/",
+        "metaDescription":  "10-day safari + Zanzibar. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Zanzibar over 10 days.",
+        "parks":  [
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti",
+                      "Zanzibar"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  1150,
+        "safariType":  "classic",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-safari-from-nairobi/2-day-kenya-from-nairobi",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Fly-in Friday-to-Sunday Mara: three drives, zero road hours.",
+        "overview":  "Nairobi-gateway loop mixing road and fly-in legs: Rift Valley lakes, Amboseli tuskers and Mara depth in one coherent circuit. A long-weekend format: tight, well-paced, and clear about what it skips. Route: Masai Mara over 2 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "2-Day Kenya Safari from Nairobi: Mara Express",
+        "region":  "Kenya Safari from Nairobi",
+        "relatedHubs":  [
+                            "/kenya-safari-from-nairobi/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  2,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "2-Day Kenya Safari from Nairobi: Mara Express",
+        "safariCategory":  "Kenya Safari from Nairobi",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-safari-from-nairobi/2-day-kenya-from-nairobi/",
+        "metaDescription":  "2-day Kenya safari from Nairobi. Route: Masai Mara over 2 days.",
+        "parks":  [
+                      "Masai Mara"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  1350,
+        "safariType":  "classic",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-safari-from-nairobi/3-day-kenya-from-nairobi",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Mara fly-in plus Rift Valley boats - variety in a long weekend.",
+        "overview":  "Nairobi-gateway loop mixing road and fly-in legs: Rift Valley lakes, Amboseli tuskers and Mara depth in one coherent circuit. A focused taste: one region done properly rather than three rushed. Route: Lake Naivasha - Masai Mara over 3 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "3-Day Kenya Safari from Nairobi: Mara + Naivasha",
+        "region":  "Kenya Safari from Nairobi",
+        "relatedHubs":  [
+                            "/kenya-safari-from-nairobi/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  3,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "3-Day Kenya Safari from Nairobi: Mara + Naivasha",
+        "safariCategory":  "Kenya Safari from Nairobi",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-safari-from-nairobi/3-day-kenya-from-nairobi/",
+        "metaDescription":  "3-day Kenya safari from Nairobi. Route: Lake Naivasha - Masai Mara over 3 days.",
+        "parks":  [
+                      "Lake Naivasha",
+                      "Masai Mara"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  1600,
+        "safariType":  "classic",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-safari-from-nairobi/4-day-kenya-from-nairobi",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Amboseli tuskers plus two Mara nights - the efficient loop.",
+        "overview":  "Nairobi-gateway loop mixing road and fly-in legs: Rift Valley lakes, Amboseli tuskers and Mara depth in one coherent circuit. A focused taste: one region done properly rather than three rushed. Route: Amboseli - Masai Mara over 4 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "4-Day Kenya Safari from Nairobi",
+        "region":  "Kenya Safari from Nairobi",
+        "relatedHubs":  [
+                            "/kenya-safari-from-nairobi/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  4,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "4-Day Kenya Safari from Nairobi",
+        "safariCategory":  "Kenya Safari from Nairobi",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-safari-from-nairobi/4-day-kenya-from-nairobi/",
+        "metaDescription":  "4-day Kenya safari from Nairobi. Route: Amboseli - Masai Mara over 4 days.",
+        "parks":  [
+                      "Amboseli",
+                      "Masai Mara"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  2000,
+        "safariType":  "classic",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-safari-from-nairobi/5-day-kenya-from-nairobi",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Mara depth plus Naivasha/Nakuru - rhinos, boats and big cats.",
+        "overview":  "Nairobi-gateway loop mixing road and fly-in legs: Rift Valley lakes, Amboseli tuskers and Mara depth in one coherent circuit. The classic length for one region - full days without filler. Route: Lake Nakuru - Lake Naivasha - Masai Mara over 5 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "5-Day Kenya Safari from Nairobi: Mara \u0026 Lakes",
+        "region":  "Kenya Safari from Nairobi",
+        "relatedHubs":  [
+                            "/kenya-safari-from-nairobi/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  5,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "5-Day Kenya Safari from Nairobi: Mara \u0026 Lakes",
+        "safariCategory":  "Kenya Safari from Nairobi",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-safari-from-nairobi/5-day-kenya-from-nairobi/",
+        "metaDescription":  "5-day Kenya safari from Nairobi. Route: Lake Nakuru - Lake Naivasha - Masai Mara over 5 days.",
+        "parks":  [
+                      "Lake Nakuru",
+                      "Lake Naivasha",
+                      "Masai Mara"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  2450,
+        "safariType":  "classic",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-safari-from-nairobi/6-day-kenya-from-nairobi",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Amboseli, lakes and Mara - the complete road loop.",
+        "overview":  "Nairobi-gateway loop mixing road and fly-in legs: Rift Valley lakes, Amboseli tuskers and Mara depth in one coherent circuit. The classic length for one region - full days without filler. Route: Amboseli - Lake Naivasha - Masai Mara over 6 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "6-Day Kenya Safari from Nairobi",
+        "region":  "Kenya Safari from Nairobi",
+        "relatedHubs":  [
+                            "/kenya-safari-from-nairobi/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  6,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "6-Day Kenya Safari from Nairobi",
+        "safariCategory":  "Kenya Safari from Nairobi",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-safari-from-nairobi/6-day-kenya-from-nairobi/",
+        "metaDescription":  "6-day Kenya safari from Nairobi. Route: Amboseli - Lake Naivasha - Masai Mara over 6 days.",
+        "parks":  [
+                      "Amboseli",
+                      "Lake Naivasha",
+                      "Masai Mara"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  2850,
+        "safariType":  "classic",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-safari-from-nairobi/7-day-kenya-from-nairobi",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Three Mara nights plus Amboseli and lakes - Kenya entire in a week.",
+        "overview":  "Nairobi-gateway loop mixing road and fly-in legs: Rift Valley lakes, Amboseli tuskers and Mara depth in one coherent circuit. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Amboseli - Lake Naivasha - Lake Nakuru - Masai Mara over 7 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "7-Day Kenya Safari from Nairobi: Classic Loop",
+        "region":  "Kenya Safari from Nairobi",
+        "relatedHubs":  [
+                            "/kenya-safari-from-nairobi/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  7,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "7-Day Kenya Safari from Nairobi: Classic Loop",
+        "safariCategory":  "Kenya Safari from Nairobi",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-safari-from-nairobi/7-day-kenya-from-nairobi/",
+        "metaDescription":  "7-day Kenya safari from Nairobi. Route: Amboseli - Lake Naivasha - Lake Nakuru - Masai Mara over 7 days.",
+        "parks":  [
+                      "Amboseli",
+                      "Lake Naivasha",
+                      "Lake Nakuru",
+                      "Masai Mara"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  3400,
+        "safariType":  "classic",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-safari-from-nairobi/8-day-kenya-from-nairobi",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Adds the Special Five north - Samburu contrast to Mara plenty.",
+        "overview":  "Nairobi-gateway loop mixing road and fly-in legs: Rift Valley lakes, Amboseli tuskers and Mara depth in one coherent circuit. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Samburu - Lake Nakuru - Masai Mara over 8 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "8-Day Kenya Safari from Nairobi + Samburu",
+        "region":  "Kenya Safari from Nairobi",
+        "relatedHubs":  [
+                            "/kenya-safari-from-nairobi/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  8,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "8-Day Kenya Safari from Nairobi + Samburu",
+        "safariCategory":  "Kenya Safari from Nairobi",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-safari-from-nairobi/8-day-kenya-from-nairobi/",
+        "metaDescription":  "8-day Kenya safari from Nairobi. Route: Samburu - Lake Nakuru - Masai Mara over 8 days.",
+        "parks":  [
+                      "Samburu",
+                      "Lake Nakuru",
+                      "Masai Mara"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  4300,
+        "safariType":  "classic",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-safari-from-nairobi/10-day-kenya-from-nairobi",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Samburu, lakes, Amboseli and four Mara nights - Kenya complete.",
+        "overview":  "Nairobi-gateway loop mixing road and fly-in legs: Rift Valley lakes, Amboseli tuskers and Mara depth in one coherent circuit. Grand-tour depth: two regions or bush-plus-beach without rushing. Route: Samburu - Amboseli - Lake Naivasha - Masai Mara over 10 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "10-Day Kenya Safari from Nairobi: Grand Loop",
+        "region":  "Kenya Safari from Nairobi",
+        "relatedHubs":  [
+                            "/kenya-safari-from-nairobi/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  10,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "10-Day Kenya Safari from Nairobi: Grand Loop",
+        "safariCategory":  "Kenya Safari from Nairobi",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-safari-from-nairobi/10-day-kenya-from-nairobi/",
+        "metaDescription":  "10-day Kenya safari from Nairobi. Route: Samburu - Amboseli - Lake Naivasha - Masai Mara over 10 days.",
+        "parks":  [
+                      "Samburu",
+                      "Amboseli",
+                      "Lake Naivasha",
+                      "Masai Mara"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  1150,
+        "safariType":  "classic",
+        "endingPoint":  "Nairobi",
+        "slug":  "masai-mara-safari/2-day-masai-mara-safari",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Three game drives in 48 hours - the shortest real Mara trip.",
+        "overview":  "Mara-depth itinerary: minimum three nights in the reserve or conservancy, river time in season, full-day picnic drives for crossings. A long-weekend format: tight, well-paced, and clear about what it skips. Route: Masai Mara over 2 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "2-Day Masai Mara Safari (Fly-In Express)",
+        "region":  "Masai Mara Safari",
+        "relatedHubs":  [
+                            "/masai-mara-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  2,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "2-Day Masai Mara Safari (Fly-In Express)",
+        "safariCategory":  "Masai Mara Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/masai-mara-safari/2-day-masai-mara-safari/",
+        "metaDescription":  "2-day Masai Mara safari. Route: Masai Mara over 2 days.",
+        "parks":  [
+                      "Masai Mara"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  2050,
+        "safariType":  "classic",
+        "endingPoint":  "Nairobi",
+        "slug":  "masai-mara-safari/4-day-masai-mara-safari",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Three full Mara nights: cats, river and balloon option.",
+        "overview":  "Mara-depth itinerary: minimum three nights in the reserve or conservancy, river time in season, full-day picnic drives for crossings. A focused taste: one region done properly rather than three rushed. Route: Masai Mara over 4 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "4-Day Masai Mara Safari",
+        "region":  "Masai Mara Safari",
+        "relatedHubs":  [
+                            "/masai-mara-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  4,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "4-Day Masai Mara Safari",
+        "safariCategory":  "Masai Mara Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/masai-mara-safari/4-day-masai-mara-safari/",
+        "metaDescription":  "4-day Masai Mara safari. Route: Masai Mara over 4 days.",
+        "parks":  [
+                      "Masai Mara"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  2900,
+        "safariType":  "luxury",
+        "endingPoint":  "Nairobi",
+        "slug":  "masai-mara-safari/5-day-masai-mara-safari",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Reserve plus private conservancy - crowds and solitude compared.",
+        "overview":  "Mara-depth itinerary: minimum three nights in the reserve or conservancy, river time in season, full-day picnic drives for crossings. The classic length for one region - full days without filler. Route: Masai Mara over 5 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "5-Day Masai Mara Safari + Conservancy",
+        "region":  "Masai Mara Safari",
+        "relatedHubs":  [
+                            "/masai-mara-safari/",
+                            "/africa-luxury-safaris/"
+                        ],
+        "duration_days":  5,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "5-Day Masai Mara Safari + Conservancy",
+        "safariCategory":  "Masai Mara Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/masai-mara-safari/5-day-masai-mara-safari/",
+        "metaDescription":  "5-day Masai Mara safari. Route: Masai Mara over 5 days.",
+        "parks":  [
+                      "Masai Mara"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  3050,
+        "safariType":  "classic",
+        "endingPoint":  "Nairobi",
+        "slug":  "masai-mara-safari/6-day-masai-mara-safari",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Five nights, two camps, walking and night-drive options.",
+        "overview":  "Mara-depth itinerary: minimum three nights in the reserve or conservancy, river time in season, full-day picnic drives for crossings. The classic length for one region - full days without filler. Route: Masai Mara over 6 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "6-Day Masai Mara Safari in Depth",
+        "region":  "Masai Mara Safari",
+        "relatedHubs":  [
+                            "/masai-mara-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  6,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "6-Day Masai Mara Safari in Depth",
+        "safariCategory":  "Masai Mara Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/masai-mara-safari/6-day-masai-mara-safari/",
+        "metaDescription":  "6-day Masai Mara safari. Route: Masai Mara over 6 days.",
+        "parks":  [
+                      "Masai Mara"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  3700,
+        "safariType":  "classic",
+        "endingPoint":  "Nairobi",
+        "slug":  "masai-mara-safari/7-day-masai-mara-safari",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "The complete Mara: river, plains, conservancy and culture.",
+        "overview":  "Mara-depth itinerary: minimum three nights in the reserve or conservancy, river time in season, full-day picnic drives for crossings. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Masai Mara over 7 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "7-Day Masai Mara Safari: Reserve + Mara North",
+        "region":  "Masai Mara Safari",
+        "relatedHubs":  [
+                            "/masai-mara-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  7,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "7-Day Masai Mara Safari: Reserve + Mara North",
+        "safariCategory":  "Masai Mara Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/masai-mara-safari/7-day-masai-mara-safari/",
+        "metaDescription":  "7-day Masai Mara safari. Route: Masai Mara over 7 days.",
+        "parks":  [
+                      "Masai Mara"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  3200,
+        "safariType":  "migration",
+        "endingPoint":  "Nairobi",
+        "slug":  "masai-mara-safari/6-day-mara-migration",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Crossing-season specialist: picnic lunches, river waits, patience.",
+        "overview":  "Mara-depth itinerary: minimum three nights in the reserve or conservancy, river time in season, full-day picnic drives for crossings. The classic length for one region - full days without filler. Route: Masai Mara over 6 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "6-Day Mara Migration Safari (Jul-Oct)",
+        "region":  "Masai Mara Safari",
+        "relatedHubs":  [
+                            "/masai-mara-safari/",
+                            "/africa-migration-safaris/"
+                        ],
+        "duration_days":  6,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "6-Day Mara Migration Safari (Jul-Oct)",
+        "safariCategory":  "Masai Mara Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/masai-mara-safari/6-day-mara-migration/",
+        "metaDescription":  "6-day Mara Migration safari. Route: Masai Mara over 6 days.",
+        "parks":  [
+                      "Masai Mara"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  1200,
+        "safariType":  "classic",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-safari/3-day-amboseli-safari",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Two full days among great tuskers with dawn Kili views.",
+        "overview":  "Amboseli-focused loop: great-tusker elephants and dawn Kilimanjaro views, paired with Rift lakes or the Mara. A focused taste: one region done properly rather than three rushed. Route: Amboseli over 3 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "3-Day Amboseli Safari: Tuskers \u0026 Kilimanjaro",
+        "region":  "Kenya Safari",
+        "relatedHubs":  [
+                            "/kenya-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  3,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "3-Day Amboseli Safari: Tuskers \u0026 Kilimanjaro",
+        "safariCategory":  "Kenya Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-safari/3-day-amboseli-safari/",
+        "metaDescription":  "3-day Amboseli safari. Route: Amboseli over 3 days.",
+        "parks":  [
+                      "Amboseli"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  1600,
+        "safariType":  "classic",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-safari/4-day-amboseli-safari",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Amboseli plus red-dust Tsavo elephants - south Kenya pairing.",
+        "overview":  "Amboseli-focused loop: great-tusker elephants and dawn Kilimanjaro views, paired with Rift lakes or the Mara. A focused taste: one region done properly rather than three rushed. Route: Amboseli - Tsavo West over 4 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "4-Day Amboseli + Tsavo Safari",
+        "region":  "Kenya Safari",
+        "relatedHubs":  [
+                            "/kenya-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  4,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "4-Day Amboseli + Tsavo Safari",
+        "safariCategory":  "Kenya Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-safari/4-day-amboseli-safari/",
+        "metaDescription":  "4-day Amboseli safari. Route: Amboseli - Tsavo West over 4 days.",
+        "parks":  [
+                      "Amboseli",
+                      "Tsavo West"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  2000,
+        "safariType":  "classic",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-safari/5-day-amboseli-safari",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "South Kenya in depth: swamps, springs and lava-flow savanna.",
+        "overview":  "Amboseli-focused loop: great-tusker elephants and dawn Kilimanjaro views, paired with Rift lakes or the Mara. The classic length for one region - full days without filler. Route: Amboseli - Tsavo West over 5 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "5-Day Amboseli, Tsavo \u0026 Taita Safari",
+        "region":  "Kenya Safari",
+        "relatedHubs":  [
+                            "/kenya-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  5,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "5-Day Amboseli, Tsavo \u0026 Taita Safari",
+        "safariCategory":  "Kenya Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-safari/5-day-amboseli-safari/",
+        "metaDescription":  "5-day Amboseli safari. Route: Amboseli - Tsavo West over 5 days.",
+        "parks":  [
+                      "Amboseli",
+                      "Tsavo West"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  3550,
+        "safariType":  "honeymoon",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-honeymoon-safari/7-day-kenya-honeymoon",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Conservancy tent, balloon dawn, lakeside romance.",
+        "overview":  "Honeymoon Kenya: conservancy tent seclusion plus optional Diani finish, balloon dawns and private sundowners. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Lake Naivasha - Masai Mara over 7 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "7-Day Kenya Honeymoon Safari",
+        "region":  "Kenya Honeymoon Safari",
+        "relatedHubs":  [
+                            "/kenya-honeymoon-safari/",
+                            "/africa-honeymoon-safaris/"
+                        ],
+        "duration_days":  7,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "7-Day Kenya Honeymoon Safari",
+        "safariCategory":  "Kenya Honeymoon Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-honeymoon-safari/7-day-kenya-honeymoon/",
+        "metaDescription":  "7-day Kenya honeymoon. Route: Lake Naivasha - Masai Mara over 7 days.",
+        "parks":  [
+                      "Lake Naivasha",
+                      "Masai Mara"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  5350,
+        "safariType":  "honeymoon",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-honeymoon-safari/10-day-kenya-honeymoon",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Mara tent plus Diani sand - direct coast flights.",
+        "overview":  "Honeymoon Kenya: conservancy tent seclusion plus optional Diani finish, balloon dawns and private sundowners. Grand-tour depth: two regions or bush-plus-beach without rushing. Route: Amboseli - Masai Mara - Diani Beach over 10 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "10-Day Kenya Honeymoon + Diani Beach",
+        "region":  "Kenya Honeymoon Safari",
+        "relatedHubs":  [
+                            "/kenya-honeymoon-safari/",
+                            "/africa-honeymoon-safaris/"
+                        ],
+        "duration_days":  10,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "10-Day Kenya Honeymoon + Diani Beach",
+        "safariCategory":  "Kenya Honeymoon Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-honeymoon-safari/10-day-kenya-honeymoon/",
+        "metaDescription":  "10-day Kenya honeymoon + Diani. Route: Amboseli - Masai Mara - Diani Beach over 10 days.",
+        "parks":  [
+                      "Amboseli",
+                      "Masai Mara",
+                      "Diani Beach"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  5450,
+        "safariType":  "luxury",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-luxury-safari/7-day-kenya-luxury",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Mara North base: off-road, night drives, walks, helicopter option.",
+        "overview":  "Conservancy-level Kenya: off-road rights, night drives, walking and helicopter options from a Mara North or Naboisho base. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Lake Naivasha - Masai Mara over 7 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "7-Day Kenya Luxury Safari (Conservancy)",
+        "region":  "Kenya Luxury Safari",
+        "relatedHubs":  [
+                            "/kenya-luxury-safari/",
+                            "/africa-luxury-safaris/"
+                        ],
+        "duration_days":  7,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "7-Day Kenya Luxury Safari (Conservancy)",
+        "safariCategory":  "Kenya Luxury Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-luxury-safari/7-day-kenya-luxury/",
+        "metaDescription":  "7-day Kenya luxury safari. Route: Lake Naivasha - Masai Mara over 7 days.",
+        "parks":  [
+                      "Lake Naivasha",
+                      "Masai Mara"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  2850,
+        "safariType":  "family",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-family-safari/7-day-kenya-family",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Boats, walks and Mara by air - kid-paced classic loop.",
+        "overview":  "Family Kenya: Naivasha boats and walks breaking up drive days, Mara by air, pools throughout. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Amboseli - Lake Naivasha - Masai Mara over 7 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "7-Day Kenya Family Safari",
+        "region":  "Kenya Family Safari",
+        "relatedHubs":  [
+                            "/kenya-family-safari/",
+                            "/africa-family-safaris/"
+                        ],
+        "duration_days":  7,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "7-Day Kenya Family Safari",
+        "safariCategory":  "Kenya Family Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-family-safari/7-day-kenya-family/",
+        "metaDescription":  "7-day Kenya family safari. Route: Amboseli - Lake Naivasha - Masai Mara over 7 days.",
+        "parks":  [
+                      "Amboseli",
+                      "Lake Naivasha",
+                      "Masai Mara"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  4850,
+        "safariType":  "beach",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-beach-safari/9-day-kenya-beach-safari",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Six bush days, three beach nights, zero backtracking.",
+        "overview":  "Kenya bush-to-beach: classic loop then direct Mara-to-Diani flights - no Nairobi backtrack. Grand-tour depth: two regions or bush-plus-beach without rushing. Route: Amboseli - Masai Mara - Diani Beach over 9 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "9-Day Kenya Safari + Diani Beach",
+        "region":  "Kenya Beach and Safari",
+        "relatedHubs":  [
+                            "/kenya-beach-safari/",
+                            "/africa-safari-from-zanzibar/"
+                        ],
+        "duration_days":  9,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "9-Day Kenya Safari + Diani Beach",
+        "safariCategory":  "Kenya Beach and Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-beach-safari/9-day-kenya-beach-safari/",
+        "metaDescription":  "9-day Kenya safari + Diani. Route: Amboseli - Masai Mara - Diani Beach over 9 days.",
+        "parks":  [
+                      "Amboseli",
+                      "Masai Mara",
+                      "Diani Beach"
+                  ]
+    },
+    {
+        "country":  "Kenya \u0026 Tanzania",
+        "startingPoint":  "Nairobi",
+        "price_from":  3250,
+        "safariType":  "combo",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-tanzania-safari/7-day-kenya-tanzania",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Two countries, one ecosystem: Mara, Serengeti and crater.",
+        "overview":  "Two-country East Africa: Mara plus Serengeti with Isebania/Namanga border handling, crater included from seven days, Amboseli and Zanzibar on longer formats. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Masai Mara - Central Serengeti - Ngorongoro Crater over 7 days. Season logic: ",
+        "published":  true,
+        "name":  "7-Day Kenya \u0026 Tanzania Safari: Mara + Serengeti",
+        "region":  "Kenya and Tanzania Safari",
+        "relatedHubs":  [
+                            "/kenya-tanzania-safari/",
+                            "/kenya-tanzania-safari/"
+                        ],
+        "duration_days":  7,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "7-Day Kenya \u0026 Tanzania Safari: Mara + Serengeti",
+        "safariCategory":  "Kenya and Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-tanzania-safari/7-day-kenya-tanzania/",
+        "metaDescription":  "7-day Kenya \u0026 Tanzania safari. Route: Masai Mara - Central Serengeti - Ngorongoro Crater over 7 days.",
+        "parks":  [
+                      "Masai Mara",
+                      "Central Serengeti",
+                      "Ngorongoro Crater"
+                  ]
+    },
+    {
+        "country":  "Kenya \u0026 Tanzania",
+        "startingPoint":  "Nairobi",
+        "price_from":  3700,
+        "safariType":  "combo",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-tanzania-safari/8-day-kenya-tanzania",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Adds Amboseli tuskers to the Mara-Serengeti core.",
+        "overview":  "Two-country East Africa: Mara plus Serengeti with Isebania/Namanga border handling, crater included from seven days, Amboseli and Zanzibar on longer formats. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Amboseli - Masai Mara - Central Serengeti over 8 days. Season logic: ",
+        "published":  true,
+        "name":  "8-Day Kenya \u0026 Tanzania Safari",
+        "region":  "Kenya and Tanzania Safari",
+        "relatedHubs":  [
+                            "/kenya-tanzania-safari/",
+                            "/kenya-tanzania-safari/"
+                        ],
+        "duration_days":  8,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "8-Day Kenya \u0026 Tanzania Safari",
+        "safariCategory":  "Kenya and Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-tanzania-safari/8-day-kenya-tanzania/",
+        "metaDescription":  "8-day Kenya \u0026 Tanzania safari. Route: Amboseli - Masai Mara - Central Serengeti over 8 days.",
+        "parks":  [
+                      "Amboseli",
+                      "Masai Mara",
+                      "Central Serengeti"
+                  ]
+    },
+    {
+        "country":  "Kenya \u0026 Tanzania",
+        "startingPoint":  "Nairobi",
+        "price_from":  4150,
+        "safariType":  "combo",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-tanzania-safari/9-day-kenya-tanzania",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Elephants added: Tarangire joins Mara, Serengeti and crater.",
+        "overview":  "Two-country East Africa: Mara plus Serengeti with Isebania/Namanga border handling, crater included from seven days, Amboseli and Zanzibar on longer formats. Grand-tour depth: two regions or bush-plus-beach without rushing. Route: Masai Mara - Tarangire - Ngorongoro Crater - Central Serengeti over 9 days. Season logic: ",
+        "published":  true,
+        "name":  "9-Day Kenya \u0026 Tanzania Safari + Tarangire",
+        "region":  "Kenya and Tanzania Safari",
+        "relatedHubs":  [
+                            "/kenya-tanzania-safari/",
+                            "/kenya-tanzania-safari/"
+                        ],
+        "duration_days":  9,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "9-Day Kenya \u0026 Tanzania Safari + Tarangire",
+        "safariCategory":  "Kenya and Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-tanzania-safari/9-day-kenya-tanzania/",
+        "metaDescription":  "9-day Kenya \u0026 Tanzania safari. Route: Masai Mara - Tarangire - Ngorongoro Crater - Central Serengeti over 9 days.",
+        "parks":  [
+                      "Masai Mara",
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti"
+                  ]
+    },
+    {
+        "country":  "Kenya \u0026 Tanzania",
+        "startingPoint":  "Nairobi",
+        "price_from":  4650,
+        "safariType":  "combo",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-tanzania-safari/10-day-kenya-tanzania",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Two full Migration zones plus crater and Amboseli.",
+        "overview":  "Two-country East Africa: Mara plus Serengeti with Isebania/Namanga border handling, crater included from seven days, Amboseli and Zanzibar on longer formats. Grand-tour depth: two regions or bush-plus-beach without rushing. Route: Amboseli - Masai Mara - Ngorongoro Crater - Northern Serengeti over 10 days. Season logic: ",
+        "published":  true,
+        "name":  "10-Day Kenya \u0026 Tanzania Safari",
+        "region":  "Kenya and Tanzania Safari",
+        "relatedHubs":  [
+                            "/kenya-tanzania-safari/",
+                            "/kenya-tanzania-safari/"
+                        ],
+        "duration_days":  10,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "10-Day Kenya \u0026 Tanzania Safari",
+        "safariCategory":  "Kenya and Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-tanzania-safari/10-day-kenya-tanzania/",
+        "metaDescription":  "10-day Kenya \u0026 Tanzania safari. Route: Amboseli - Masai Mara - Ngorongoro Crater - Northern Serengeti over 10 days.",
+        "parks":  [
+                      "Amboseli",
+                      "Masai Mara",
+                      "Ngorongoro Crater",
+                      "Northern Serengeti"
+                  ]
+    },
+    {
+        "country":  "Kenya \u0026 Tanzania",
+        "startingPoint":  "Nairobi",
+        "price_from":  5950,
+        "safariType":  "combo",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-tanzania-safari/12-day-kenya-tanzania",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "The grand two-country arc with a Zanzibar finale.",
+        "overview":  "Two-country East Africa: Mara plus Serengeti with Isebania/Namanga border handling, crater included from seven days, Amboseli and Zanzibar on longer formats. The ultimate unhurried format: everything, slowly, with contingency days built in. Route: Masai Mara - Central Serengeti - Ngorongoro Crater - Zanzibar over 12 days. Season logic: ",
+        "published":  true,
+        "name":  "12-Day Kenya \u0026 Tanzania + Zanzibar",
+        "region":  "Kenya and Tanzania Safari",
+        "relatedHubs":  [
+                            "/kenya-tanzania-safari/",
+                            "/kenya-tanzania-safari/"
+                        ],
+        "duration_days":  12,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "12-Day Kenya \u0026 Tanzania + Zanzibar",
+        "safariCategory":  "Kenya and Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-tanzania-safari/12-day-kenya-tanzania/",
+        "metaDescription":  "12-day Kenya \u0026 Tanzania + Zanzibar. Route: Masai Mara - Central Serengeti - Ngorongoro Crater - Zanzibar over 12 days.",
+        "parks":  [
+                      "Masai Mara",
+                      "Central Serengeti",
+                      "Ngorongoro Crater",
+                      "Zanzibar"
+                  ]
+    },
+    {
+        "country":  "Kenya \u0026 Tanzania",
+        "startingPoint":  "Nairobi",
+        "price_from":  6500,
+        "safariType":  "combo",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-tanzania-safari/14-day-kenya-tanzania",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Everything: Samburu to Ndutu, crater to coast options.",
+        "overview":  "Two-country East Africa: Mara plus Serengeti with Isebania/Namanga border handling, crater included from seven days, Amboseli and Zanzibar on longer formats. The ultimate unhurried format: everything, slowly, with contingency days built in. Route: Samburu - Masai Mara - Tarangire - Ngorongoro Crater - Central Serengeti over 14 days. Season logic: ",
+        "published":  true,
+        "name":  "14-Day Kenya \u0026 Tanzania Grand Safari",
+        "region":  "Kenya and Tanzania Safari",
+        "relatedHubs":  [
+                            "/kenya-tanzania-safari/",
+                            "/kenya-tanzania-safari/"
+                        ],
+        "duration_days":  14,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "14-Day Kenya \u0026 Tanzania Grand Safari",
+        "safariCategory":  "Kenya and Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-tanzania-safari/14-day-kenya-tanzania/",
+        "metaDescription":  "14-day Kenya \u0026 Tanzania grand. Route: Samburu - Masai Mara - Tarangire - Ngorongoro Crater - Central Serengeti over 14 days.",
+        "parks":  [
+                      "Samburu",
+                      "Masai Mara",
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti"
+                  ]
+    },
+    {
+        "country":  "Uganda",
+        "startingPoint":  "Entebbe",
+        "price_from":  2400,
+        "safariType":  "gorilla",
+        "endingPoint":  "Entebbe",
+        "slug":  "uganda-gorilla-trekking/4-day-gorilla-safari",
+        "currency":  "USD",
+        "imgkey":  "UG",
+        "excerpt":  "Trek plus Batwa heritage walk and second forest morning.",
+        "overview":  "Permit-first gorilla itinerary: availability checked before lodges, porter arranged, fitness briefing honest, forest finale done right. A focused taste: one region done properly rather than three rushed. Route: Bwindi over 4 days. Season logic: June-September and December-February dry windows for firm trekking trails.",
+        "published":  true,
+        "name":  "4-Day Uganda Gorilla Safari + Forest Walks",
+        "region":  "Uganda Gorilla Trekking",
+        "relatedHubs":  [
+                            "/uganda-gorilla-trekking/",
+                            "/africa-gorilla-safaris/"
+                        ],
+        "duration_days":  4,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "4-Day Uganda Gorilla Safari + Forest Walks",
+        "safariCategory":  "Uganda Gorilla Trekking",
+        "canonical":  "https://www.adventuresafariafrica.com/uganda-gorilla-trekking/4-day-gorilla-safari/",
+        "metaDescription":  "4-day Uganda gorilla safari. Route: Bwindi over 4 days.",
+        "parks":  [
+                      "Bwindi"
+                  ]
+    },
+    {
+        "country":  "Uganda",
+        "startingPoint":  "Entebbe",
+        "price_from":  3050,
+        "safariType":  "gorilla",
+        "endingPoint":  "Entebbe",
+        "slug":  "uganda-gorilla-trekking/5-day-uganda-gorilla",
+        "currency":  "USD",
+        "imgkey":  "UG",
+        "excerpt":  "Bwindi trek plus Kibale chimps - the primate double.",
+        "overview":  "Permit-first gorilla itinerary: availability checked before lodges, porter arranged, fitness briefing honest, forest finale done right. The classic length for one region - full days without filler. Route: Kibale - Bwindi over 5 days. Season logic: June-September and December-February dry windows for firm trekking trails.",
+        "published":  true,
+        "name":  "5-Day Uganda Gorilla + Chimp Safari",
+        "region":  "Uganda Gorilla Trekking",
+        "relatedHubs":  [
+                            "/uganda-gorilla-trekking/",
+                            "/africa-gorilla-safaris/"
+                        ],
+        "duration_days":  5,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "5-Day Uganda Gorilla + Chimp Safari",
+        "safariCategory":  "Uganda Gorilla Trekking",
+        "canonical":  "https://www.adventuresafariafrica.com/uganda-gorilla-trekking/5-day-uganda-gorilla/",
+        "metaDescription":  "5-day Uganda gorilla + chimps. Route: Kibale - Bwindi over 5 days.",
+        "parks":  [
+                      "Kibale",
+                      "Bwindi"
+                  ]
+    },
+    {
+        "country":  "Uganda",
+        "startingPoint":  "Entebbe",
+        "price_from":  5700,
+        "safariType":  "gorilla",
+        "endingPoint":  "Entebbe",
+        "slug":  "uganda-wildlife-safari/12-day-uganda-wildlife",
+        "currency":  "USD",
+        "imgkey":  "UG",
+        "excerpt":  "Adds Lake Mburo walking and community days to the grand tour.",
+        "overview":  "Grand Uganda arc: rhinos, falls, chimps, lions, channel boats and gorillas - every ecosystem in one trip. The ultimate unhurried format: everything, slowly, with contingency days built in. Route: Murchison Falls - Kibale - Queen Elizabeth - Bwindi over 12 days. Season logic: June-September and December-February dry windows for firm trekking trails.",
+        "published":  true,
+        "name":  "12-Day Uganda Wildlife Safari Complete",
+        "region":  "Uganda Wildlife Safari",
+        "relatedHubs":  [
+                            "/uganda-wildlife-safari/",
+                            "/africa-gorilla-safaris/"
+                        ],
+        "duration_days":  12,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "12-Day Uganda Wildlife Safari Complete",
+        "safariCategory":  "Uganda Wildlife Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/uganda-wildlife-safari/12-day-uganda-wildlife/",
+        "metaDescription":  "12-day Uganda wildlife safari. Route: Murchison Falls - Kibale - Queen Elizabeth - Bwindi over 12 days.",
+        "parks":  [
+                      "Murchison Falls",
+                      "Kibale",
+                      "Queen Elizabeth",
+                      "Bwindi"
+                  ]
+    },
+    {
+        "country":  "Uganda",
+        "startingPoint":  "Entebbe",
+        "price_from":  6550,
+        "safariType":  "gorilla",
+        "endingPoint":  "Entebbe",
+        "slug":  "uganda-wildlife-safari/14-day-uganda-wildlife",
+        "currency":  "USD",
+        "imgkey":  "UG",
+        "excerpt":  "Every park including Kidepo option - Uganda without compromise.",
+        "overview":  "Grand Uganda arc: rhinos, falls, chimps, lions, channel boats and gorillas - every ecosystem in one trip. The ultimate unhurried format: everything, slowly, with contingency days built in. Route: Murchison Falls - Kibale - Queen Elizabeth - Bwindi over 14 days. Season logic: June-September and December-February dry windows for firm trekking trails.",
+        "published":  true,
+        "name":  "14-Day Ultimate Uganda Wildlife Safari",
+        "region":  "Uganda Wildlife Safari",
+        "relatedHubs":  [
+                            "/uganda-wildlife-safari/",
+                            "/africa-gorilla-safaris/"
+                        ],
+        "duration_days":  14,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "14-Day Ultimate Uganda Wildlife Safari",
+        "safariCategory":  "Uganda Wildlife Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/uganda-wildlife-safari/14-day-uganda-wildlife/",
+        "metaDescription":  "14-day ultimate Uganda. Route: Murchison Falls - Kibale - Queen Elizabeth - Bwindi over 14 days.",
+        "parks":  [
+                      "Murchison Falls",
+                      "Kibale",
+                      "Queen Elizabeth",
+                      "Bwindi"
+                  ]
+    },
+    {
+        "country":  "Botswana",
+        "startingPoint":  "Maun",
+        "price_from":  2700,
+        "safariType":  "classic",
+        "endingPoint":  "Maun",
+        "slug":  "botswana-safari/3-day-botswana-safari",
+        "currency":  "USD",
+        "imgkey":  "BW",
+        "excerpt":  "Riverfront herds by boat and 4x4 from Kasane.",
+        "overview":  "Fly-in Botswana circuit: light-aircraft hops between water, predator and riverfront camps - low beds, huge concessions, no crowds. A focused taste: one region done properly rather than three rushed. Route: Chobe over 3 days. Season logic: May-October dry season; Delta flood peaks June-August.",
+        "published":  true,
+        "name":  "3-Day Botswana Safari: Chobe Focus",
+        "region":  "Botswana Safari",
+        "relatedHubs":  [
+                            "/botswana-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  3,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "3-Day Botswana Safari: Chobe Focus",
+        "safariCategory":  "Botswana Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/botswana-safari/3-day-botswana-safari/",
+        "metaDescription":  "3-day Botswana safari. Route: Chobe over 3 days.",
+        "parks":  [
+                      "Chobe"
+                  ]
+    },
+    {
+        "country":  "Botswana",
+        "startingPoint":  "Maun",
+        "price_from":  6500,
+        "safariType":  "classic",
+        "endingPoint":  "Maun",
+        "slug":  "botswana-safari/7-day-botswana-safari",
+        "currency":  "USD",
+        "imgkey":  "BW",
+        "excerpt":  "Three Delta nights plus Chobe herds - the balanced week.",
+        "overview":  "Fly-in Botswana circuit: light-aircraft hops between water, predator and riverfront camps - low beds, huge concessions, no crowds. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Okavango Delta - Chobe over 7 days. Season logic: May-October dry season; Delta flood peaks June-August.",
+        "published":  true,
+        "name":  "7-Day Botswana Safari: Delta + Chobe",
+        "region":  "Botswana Safari",
+        "relatedHubs":  [
+                            "/botswana-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  7,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "7-Day Botswana Safari: Delta + Chobe",
+        "safariCategory":  "Botswana Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/botswana-safari/7-day-botswana-safari/",
+        "metaDescription":  "7-day Botswana safari. Route: Okavango Delta - Chobe over 7 days.",
+        "parks":  [
+                      "Okavango Delta",
+                      "Chobe"
+                  ]
+    },
+    {
+        "country":  "Botswana",
+        "startingPoint":  "Maun",
+        "price_from":  9400,
+        "safariType":  "classic",
+        "endingPoint":  "Maun",
+        "slug":  "botswana-safari/10-day-botswana-safari",
+        "currency":  "USD",
+        "imgkey":  "BW",
+        "excerpt":  "Delta, Linyanti, Chobe plus two Falls nights.",
+        "overview":  "Fly-in Botswana circuit: light-aircraft hops between water, predator and riverfront camps - low beds, huge concessions, no crowds. Grand-tour depth: two regions or bush-plus-beach without rushing. Route: Okavango Delta - Moremi / Khwai - Chobe - Victoria Falls over 10 days. Season logic: May-October dry season; Delta flood peaks June-August.",
+        "published":  true,
+        "name":  "10-Day Botswana Safari + Victoria Falls",
+        "region":  "Botswana Safari",
+        "relatedHubs":  [
+                            "/botswana-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  10,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "10-Day Botswana Safari + Victoria Falls",
+        "safariCategory":  "Botswana Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/botswana-safari/10-day-botswana-safari/",
+        "metaDescription":  "10-day Botswana + Falls. Route: Okavango Delta - Moremi / Khwai - Chobe - Victoria Falls over 10 days.",
+        "parks":  [
+                      "Okavango Delta",
+                      "Moremi / Khwai",
+                      "Chobe",
+                      "Victoria Falls"
+                  ]
+    },
+    {
+        "country":  "Botswana",
+        "startingPoint":  "Maun",
+        "price_from":  11200,
+        "safariType":  "classic",
+        "endingPoint":  "Maun",
+        "slug":  "botswana-safari/12-day-botswana-safari",
+        "currency":  "USD",
+        "imgkey":  "BW",
+        "excerpt":  "Adds Makgadikgadi meerkats and sleep-out to the grand circuit.",
+        "overview":  "Fly-in Botswana circuit: light-aircraft hops between water, predator and riverfront camps - low beds, huge concessions, no crowds. The ultimate unhurried format: everything, slowly, with contingency days built in. Route: Makgadikgadi - Okavango Delta - Moremi / Khwai - Chobe over 12 days. Season logic: May-October dry season; Delta flood peaks June-August.",
+        "published":  true,
+        "name":  "12-Day Botswana Grand: Pans to Falls",
+        "region":  "Botswana Safari",
+        "relatedHubs":  [
+                            "/botswana-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  12,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "12-Day Botswana Grand: Pans to Falls",
+        "safariCategory":  "Botswana Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/botswana-safari/12-day-botswana-safari/",
+        "metaDescription":  "12-day Botswana grand. Route: Makgadikgadi - Okavango Delta - Moremi / Khwai - Chobe over 12 days.",
+        "parks":  [
+                      "Makgadikgadi",
+                      "Okavango Delta",
+                      "Moremi / Khwai",
+                      "Chobe"
+                  ]
+    },
+    {
+        "country":  "Namibia",
+        "startingPoint":  "Windhoek",
+        "price_from":  2000,
+        "safariType":  "classic",
+        "endingPoint":  "Windhoek",
+        "slug":  "namibia-safari/5-day-namibia-safari",
+        "currency":  "USD",
+        "imgkey":  "NA",
+        "excerpt":  "Sossusvlei plus Swakopmund - desert icons express.",
+        "overview":  "Grand Namibia loop: dunes, coast, Damaraland rhinos and Etosha waterholes at self-drive or guided pace. The classic length for one region - full days without filler. Route: Sossusvlei - Swakopmund over 5 days. Season logic: May-October dry season for Etosha; dunes year-round.",
+        "published":  true,
+        "name":  "5-Day Namibia Safari: Dunes \u0026 Coast",
+        "region":  "Namibia Safari",
+        "relatedHubs":  [
+                            "/namibia-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  5,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "5-Day Namibia Safari: Dunes \u0026 Coast",
+        "safariCategory":  "Namibia Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/namibia-safari/5-day-namibia-safari/",
+        "metaDescription":  "5-day Namibia safari. Route: Sossusvlei - Swakopmund over 5 days.",
+        "parks":  [
+                      "Sossusvlei",
+                      "Swakopmund"
+                  ]
+    },
+    {
+        "country":  "Namibia",
+        "startingPoint":  "Windhoek",
+        "price_from":  3150,
+        "safariType":  "classic",
+        "endingPoint":  "Windhoek",
+        "slug":  "namibia-safari/8-day-namibia-safari",
+        "currency":  "USD",
+        "imgkey":  "NA",
+        "excerpt":  "Adds rhino tracking and Twyfelfontein to dunes and coast.",
+        "overview":  "Grand Namibia loop: dunes, coast, Damaraland rhinos and Etosha waterholes at self-drive or guided pace. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Sossusvlei - Swakopmund - Damaraland over 8 days. Season logic: May-October dry season for Etosha; dunes year-round.",
+        "published":  true,
+        "name":  "8-Day Namibia Safari + Damaraland",
+        "region":  "Namibia Safari",
+        "relatedHubs":  [
+                            "/namibia-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  8,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "8-Day Namibia Safari + Damaraland",
+        "safariCategory":  "Namibia Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/namibia-safari/8-day-namibia-safari/",
+        "metaDescription":  "8-day Namibia safari. Route: Sossusvlei - Swakopmund - Damaraland over 8 days.",
+        "parks":  [
+                      "Sossusvlei",
+                      "Swakopmund",
+                      "Damaraland"
+                  ]
+    },
+    {
+        "country":  "Namibia",
+        "startingPoint":  "Windhoek",
+        "price_from":  5250,
+        "safariType":  "classic",
+        "endingPoint":  "Windhoek",
+        "slug":  "namibia-safari/12-day-namibia-safari",
+        "currency":  "USD",
+        "imgkey":  "NA",
+        "excerpt":  "Grand loop plus Skeleton Coast fly-in.",
+        "overview":  "Grand Namibia loop: dunes, coast, Damaraland rhinos and Etosha waterholes at self-drive or guided pace. The ultimate unhurried format: everything, slowly, with contingency days built in. Route: Sossusvlei - Swakopmund - Damaraland - Etosha - Skeleton Coast over 12 days. Season logic: May-October dry season for Etosha; dunes year-round.",
+        "published":  true,
+        "name":  "12-Day Namibia Desert \u0026 Coast Expedition",
+        "region":  "Namibia Safari",
+        "relatedHubs":  [
+                            "/namibia-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  12,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "12-Day Namibia Desert \u0026 Coast Expedition",
+        "safariCategory":  "Namibia Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/namibia-safari/12-day-namibia-safari/",
+        "metaDescription":  "12-day Namibia expedition. Route: Sossusvlei - Swakopmund - Damaraland - Etosha - Skeleton Coast over 12 days.",
+        "parks":  [
+                      "Sossusvlei",
+                      "Swakopmund",
+                      "Damaraland",
+                      "Etosha",
+                      "Skeleton Coast"
+                  ]
+    },
+    {
+        "country":  "Namibia",
+        "startingPoint":  "Windhoek",
+        "price_from":  5800,
+        "safariType":  "classic",
+        "endingPoint":  "Windhoek",
+        "slug":  "namibia-safari/14-day-namibia-safari",
+        "currency":  "USD",
+        "imgkey":  "NA",
+        "excerpt":  "Adds Caprivi river systems - desert plus wetland finales.",
+        "overview":  "Grand Namibia loop: dunes, coast, Damaraland rhinos and Etosha waterholes at self-drive or guided pace. The ultimate unhurried format: everything, slowly, with contingency days built in. Route: Sossusvlei - Damaraland - Etosha over 14 days. Season logic: May-October dry season for Etosha; dunes year-round.",
+        "published":  true,
+        "name":  "14-Day Namibia Ultimate: + Caprivi",
+        "region":  "Namibia Safari",
+        "relatedHubs":  [
+                            "/namibia-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  14,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "14-Day Namibia Ultimate: + Caprivi",
+        "safariCategory":  "Namibia Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/namibia-safari/14-day-namibia-safari/",
+        "metaDescription":  "14-day Namibia ultimate. Route: Sossusvlei - Damaraland - Etosha over 14 days.",
+        "parks":  [
+                      "Sossusvlei",
+                      "Damaraland",
+                      "Etosha"
+                  ]
+    },
+    {
+        "country":  "South Africa",
+        "startingPoint":  "Johannesburg",
+        "price_from":  1800,
+        "safariType":  "classic",
+        "endingPoint":  "Johannesburg",
+        "slug":  "south-africa-safari/3-day-kruger-safari",
+        "currency":  "USD",
+        "imgkey":  "SA",
+        "excerpt":  "Two full concession days - leopards fast.",
+        "overview":  "Bush-city-coast South Africa: Sabi Sand leopards plus Cape Town, winelands and optional Garden Route. A focused taste: one region done properly rather than three rushed. Route: Sabi Sand over 3 days. Season logic: May-September for game; November-March for Cape Town.",
+        "published":  true,
+        "name":  "3-Day Kruger Safari Fly-In",
+        "region":  "South Africa Safari",
+        "relatedHubs":  [
+                            "/south-africa-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  3,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "3-Day Kruger Safari Fly-In",
+        "safariCategory":  "South Africa Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/south-africa-safari/3-day-kruger-safari/",
+        "metaDescription":  "3-day Kruger safari. Route: Sabi Sand over 3 days.",
+        "parks":  [
+                      "Sabi Sand"
+                  ]
+    },
+    {
+        "country":  "South Africa",
+        "startingPoint":  "Johannesburg",
+        "price_from":  3900,
+        "safariType":  "classic",
+        "endingPoint":  "Johannesburg",
+        "slug":  "south-africa-safari/7-day-south-africa",
+        "currency":  "USD",
+        "imgkey":  "SA",
+        "excerpt":  "Three safari nights plus three Cape nights - express grand.",
+        "overview":  "Bush-city-coast South Africa: Sabi Sand leopards plus Cape Town, winelands and optional Garden Route. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Sabi Sand - Cape Town over 7 days. Season logic: May-September for game; November-March for Cape Town.",
+        "published":  true,
+        "name":  "7-Day South Africa: Kruger + Cape Town",
+        "region":  "South Africa Safari",
+        "relatedHubs":  [
+                            "/south-africa-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  7,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "7-Day South Africa: Kruger + Cape Town",
+        "safariCategory":  "South Africa Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/south-africa-safari/7-day-south-africa/",
+        "metaDescription":  "7-day South Africa. Route: Sabi Sand - Cape Town over 7 days.",
+        "parks":  [
+                      "Sabi Sand",
+                      "Cape Town"
+                  ]
+    },
+    {
+        "country":  "South Africa",
+        "startingPoint":  "Johannesburg",
+        "price_from":  6700,
+        "safariType":  "classic",
+        "endingPoint":  "Johannesburg",
+        "slug":  "south-africa-safari/12-day-south-africa",
+        "currency":  "USD",
+        "imgkey":  "SA",
+        "excerpt":  "Cape, winelands, Garden Route self-drive and Sabi Sand.",
+        "overview":  "Bush-city-coast South Africa: Sabi Sand leopards plus Cape Town, winelands and optional Garden Route. The ultimate unhurried format: everything, slowly, with contingency days built in. Route: Cape Town - Winelands - Garden Route - Sabi Sand over 12 days. Season logic: May-September for game; November-March for Cape Town.",
+        "published":  true,
+        "name":  "12-Day Grand South Africa + Garden Route",
+        "region":  "South Africa Safari",
+        "relatedHubs":  [
+                            "/south-africa-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  12,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "12-Day Grand South Africa + Garden Route",
+        "safariCategory":  "South Africa Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/south-africa-safari/12-day-south-africa/",
+        "metaDescription":  "12-day grand South Africa. Route: Cape Town - Winelands - Garden Route - Sabi Sand over 12 days.",
+        "parks":  [
+                      "Cape Town",
+                      "Winelands",
+                      "Garden Route",
+                      "Sabi Sand"
+                  ]
+    },
+    {
+        "country":  "South Africa",
+        "startingPoint":  "Johannesburg",
+        "price_from":  7750,
+        "safariType":  "classic",
+        "endingPoint":  "Johannesburg",
+        "slug":  "south-africa-safari/14-day-south-africa",
+        "currency":  "USD",
+        "imgkey":  "SA",
+        "excerpt":  "Adds Panorama Route and Eswatini culture to the grand loop.",
+        "overview":  "Bush-city-coast South Africa: Sabi Sand leopards plus Cape Town, winelands and optional Garden Route. The ultimate unhurried format: everything, slowly, with contingency days built in. Route: Cape Town - Garden Route - Kruger over 14 days. Season logic: May-September for game; November-March for Cape Town.",
+        "published":  true,
+        "name":  "14-Day Ultimate South Africa + Eswatini",
+        "region":  "South Africa Safari",
+        "relatedHubs":  [
+                            "/south-africa-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  14,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "14-Day Ultimate South Africa + Eswatini",
+        "safariCategory":  "South Africa Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/south-africa-safari/14-day-south-africa/",
+        "metaDescription":  "14-day ultimate South Africa. Route: Cape Town - Garden Route - Kruger over 14 days.",
+        "parks":  [
+                      "Cape Town",
+                      "Garden Route",
+                      "Kruger"
+                  ]
+    },
+    {
+        "country":  "Ethiopia",
+        "startingPoint":  "Addis Ababa",
+        "price_from":  2300,
+        "safariType":  "classic",
+        "endingPoint":  "Addis Ababa",
+        "slug":  "ethiopia-safari/5-day-ethiopia-tour",
+        "currency":  "USD",
+        "imgkey":  "ET",
+        "excerpt":  "Rock churches and castles - the historic crash course.",
+        "overview":  "Historic-and-highland Ethiopia: rock churches, castles, Simien trekking and valley cultures matched to current conditions. The classic length for one region - full days without filler. Route: Lalibela over 5 days. Season logic: October-March dry season.",
+        "published":  true,
+        "name":  "5-Day Ethiopia Tour: Lalibela + Gondar",
+        "region":  "Ethiopia Safari",
+        "relatedHubs":  [
+                            "/ethiopia-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  5,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "5-Day Ethiopia Tour: Lalibela + Gondar",
+        "safariCategory":  "Ethiopia Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/ethiopia-safari/5-day-ethiopia-tour/",
+        "metaDescription":  "5-day Ethiopia tour. Route: Lalibela over 5 days.",
+        "parks":  [
+                      "Lalibela"
+                  ]
+    },
+    {
+        "country":  "Ethiopia",
+        "startingPoint":  "Addis Ababa",
+        "price_from":  3150,
+        "safariType":  "classic",
+        "endingPoint":  "Addis Ababa",
+        "slug":  "ethiopia-safari/7-day-ethiopia-tour",
+        "currency":  "USD",
+        "imgkey":  "ET",
+        "excerpt":  "Lalibela, Gondar plus two Simien trekking days.",
+        "overview":  "Historic-and-highland Ethiopia: rock churches, castles, Simien trekking and valley cultures matched to current conditions. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Lalibela - Simien Mountains over 7 days. Season logic: October-March dry season.",
+        "published":  true,
+        "name":  "7-Day Ethiopia Tour: North + Simien Taste",
+        "region":  "Ethiopia Safari",
+        "relatedHubs":  [
+                            "/ethiopia-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  7,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "7-Day Ethiopia Tour: North + Simien Taste",
+        "safariCategory":  "Ethiopia Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/ethiopia-safari/7-day-ethiopia-tour/",
+        "metaDescription":  "7-day Ethiopia tour. Route: Lalibela - Simien Mountains over 7 days.",
+        "parks":  [
+                      "Lalibela",
+                      "Simien Mountains"
+                  ]
+    },
+    {
+        "country":  "Ethiopia",
+        "startingPoint":  "Addis Ababa",
+        "price_from":  4600,
+        "safariType":  "classic",
+        "endingPoint":  "Addis Ababa",
+        "slug":  "ethiopia-safari/10-day-ethiopia-tour",
+        "currency":  "USD",
+        "imgkey":  "ET",
+        "excerpt":  "Historic north plus Omo Valley cultures by air.",
+        "overview":  "Historic-and-highland Ethiopia: rock churches, castles, Simien trekking and valley cultures matched to current conditions. Grand-tour depth: two regions or bush-plus-beach without rushing. Route: Lalibela - Simien Mountains - Omo Valley over 10 days. Season logic: October-March dry season.",
+        "published":  true,
+        "name":  "10-Day Ethiopia Tour: North + Omo",
+        "region":  "Ethiopia Safari",
+        "relatedHubs":  [
+                            "/ethiopia-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  10,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "10-Day Ethiopia Tour: North + Omo",
+        "safariCategory":  "Ethiopia Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/ethiopia-safari/10-day-ethiopia-tour/",
+        "metaDescription":  "10-day Ethiopia tour. Route: Lalibela - Simien Mountains - Omo Valley over 10 days.",
+        "parks":  [
+                      "Lalibela",
+                      "Simien Mountains",
+                      "Omo Valley"
+                  ]
+    },
+    {
+        "country":  "Ethiopia",
+        "startingPoint":  "Addis Ababa",
+        "price_from":  5450,
+        "safariType":  "classic",
+        "endingPoint":  "Addis Ababa",
+        "slug":  "ethiopia-safari/12-day-ethiopia-tour",
+        "currency":  "USD",
+        "imgkey":  "ET",
+        "excerpt":  "North, Simien trek and full Omo loop.",
+        "overview":  "Historic-and-highland Ethiopia: rock churches, castles, Simien trekking and valley cultures matched to current conditions. The ultimate unhurried format: everything, slowly, with contingency days built in. Route: Lalibela - Simien Mountains - Omo Valley over 12 days. Season logic: October-March dry season.",
+        "published":  true,
+        "name":  "12-Day Ethiopia Grand Tour",
+        "region":  "Ethiopia Safari",
+        "relatedHubs":  [
+                            "/ethiopia-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  12,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "12-Day Ethiopia Grand Tour",
+        "safariCategory":  "Ethiopia Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/ethiopia-safari/12-day-ethiopia-tour/",
+        "metaDescription":  "12-day Ethiopia grand. Route: Lalibela - Simien Mountains - Omo Valley over 12 days.",
+        "parks":  [
+                      "Lalibela",
+                      "Simien Mountains",
+                      "Omo Valley"
+                  ]
+    },
+    {
+        "country":  "Ethiopia",
+        "startingPoint":  "Addis Ababa",
+        "price_from":  6700,
+        "safariType":  "classic",
+        "endingPoint":  "Addis Ababa",
+        "slug":  "ethiopia-safari/14-day-ethiopia-tour",
+        "currency":  "USD",
+        "imgkey":  "ET",
+        "excerpt":  "Adds the Danakil Depression expedition for the hardy.",
+        "overview":  "Historic-and-highland Ethiopia: rock churches, castles, Simien trekking and valley cultures matched to current conditions. The ultimate unhurried format: everything, slowly, with contingency days built in. Route: Lalibela - Simien Mountains - Omo Valley over 14 days. Season logic: October-March dry season.",
+        "published":  true,
+        "name":  "14-Day Ultimate Ethiopia: + Danakil",
+        "region":  "Ethiopia Safari",
+        "relatedHubs":  [
+                            "/ethiopia-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  14,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "14-Day Ultimate Ethiopia: + Danakil",
+        "safariCategory":  "Ethiopia Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/ethiopia-safari/14-day-ethiopia-tour/",
+        "metaDescription":  "14-day ultimate Ethiopia. Route: Lalibela - Simien Mountains - Omo Valley over 14 days.",
+        "parks":  [
+                      "Lalibela",
+                      "Simien Mountains",
+                      "Omo Valley"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  2450,
+        "safariType":  "group",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-group-safari/7-day-tanzania-group",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "The full northern circuit shared: Tarangire, crater, three Serengeti nights.",
+        "overview":  "Join-in group departure on set dates: shared 4x4 and guide, per-seat pricing, small groups of four to seven - the social, value way to safari. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Northern Serengeti over 7 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "7-Day Tanzania Group Safari (Max 7)",
+        "region":  "Tanzania Group Safari",
+        "relatedHubs":  [
+                            "/tanzania-group-safari/",
+                            "/group-african-safaris/"
+                        ],
+        "duration_days":  7,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "7-Day Tanzania Group Safari (Max 7)",
+        "safariCategory":  "Tanzania Group Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-group-safari/7-day-tanzania-group/",
+        "metaDescription":  "7-day Tanzania group safari. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Northern Serengeti over 7 days.",
+        "parks":  [
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti",
+                      "Northern Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  1750,
+        "safariType":  "group",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-group-safari/5-day-tanzania-group",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Essential parks shared: Tarangire, crater and two Serengeti nights.",
+        "overview":  "Join-in group departure on set dates: shared 4x4 and guide, per-seat pricing, small groups of four to seven - the social, value way to safari. The classic length for one region - full days without filler. Route: Tarangire - Ngorongoro Crater - Central Serengeti over 5 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "5-Day Tanzania Group Safari (Max 7)",
+        "region":  "Tanzania Group Safari",
+        "relatedHubs":  [
+                            "/tanzania-group-safari/",
+                            "/group-african-safaris/"
+                        ],
+        "duration_days":  5,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "5-Day Tanzania Group Safari (Max 7)",
+        "safariCategory":  "Tanzania Group Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-group-safari/5-day-tanzania-group/",
+        "metaDescription":  "5-day Tanzania group safari. Route: Tarangire - Ngorongoro Crater - Central Serengeti over 5 days.",
+        "parks":  [
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  5600,
+        "safariType":  "classic",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-safari-from-nairobi/12-day-kenya-from-nairobi",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Samburu, Amboseli, lakes, four Mara nights, then Diani sand - Kenya entire.",
+        "overview":  "Nairobi-gateway loop mixing road and fly-in legs: Rift Valley lakes, Amboseli tuskers and Mara depth in one coherent circuit. The ultimate unhurried format: everything, slowly, with contingency days built in. Route: Samburu - Amboseli - Lake Naivasha - Masai Mara - Diani Beach over 12 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "12-Day Kenya Grand Safari + Diani Beach",
+        "region":  "Kenya Safari from Nairobi",
+        "relatedHubs":  [
+                            "/kenya-safari-from-nairobi/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  12,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "12-Day Kenya Grand Safari + Diani Beach",
+        "safariCategory":  "Kenya Safari from Nairobi",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-safari-from-nairobi/12-day-kenya-from-nairobi/",
+        "metaDescription":  "12-day Kenya grand safari + Diani. Route: Samburu - Amboseli - Lake Naivasha - Masai Mara - Diani Beach over 12 days.",
+        "parks":  [
+                      "Samburu",
+                      "Amboseli",
+                      "Lake Naivasha",
+                      "Masai Mara",
+                      "Diani Beach"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  1650,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-safari/4-day-tanzania-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "The northern circuit in four efficient days - elephants, crater Big Five, Serengeti taste.",
+        "overview":  "Mainland northern-circuit itinerary from Arusha: Tarangire, Ngorongoro and the Serengeti in cooker-cutter-free order - camp zone set by your month, not a template. A focused taste: one region done properly rather than three rushed. Route: Tarangire - Ngorongoro Crater - Central Serengeti over 4 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "4-Day Tanzania Safari: Tarangire, Crater \u0026 Serengeti",
+        "region":  "Tanzania Safari",
+        "relatedHubs":  [
+                            "/tanzania-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  4,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "4-Day Tanzania Safari: Tarangire, Crater \u0026 Serengeti",
+        "safariCategory":  "Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-safari/4-day-tanzania-safari/",
+        "metaDescription":  "4-day Tanzania safari. Route: Tarangire - Ngorongoro Crater - Central Serengeti over 4 days.",
+        "parks":  [
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  2050,
+        "safariType":  "classic",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-safari/5-day-tanzania-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "The classic five-day circuit: Tarangire, crater day, two Serengeti nights.",
+        "overview":  "Mainland northern-circuit itinerary from Arusha: Tarangire, Ngorongoro and the Serengeti in cooker-cutter-free order - camp zone set by your month, not a template. The classic length for one region - full days without filler. Route: Tarangire - Ngorongoro Crater - Central Serengeti over 5 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "5-Day Tanzania Safari: Northern Circuit Classic",
+        "region":  "Tanzania Safari",
+        "relatedHubs":  [
+                            "/tanzania-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  5,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "5-Day Tanzania Safari: Northern Circuit Classic",
+        "safariCategory":  "Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-safari/5-day-tanzania-safari/",
+        "metaDescription":  "5-day Tanzania safari. Route: Tarangire - Ngorongoro Crater - Central Serengeti over 5 days.",
+        "parks":  [
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti"
+                  ]
+    },
+    {
+        "country":  "Tanzania",
+        "startingPoint":  "Arusha",
+        "price_from":  3200,
+        "safariType":  "migration",
+        "endingPoint":  "Arusha",
+        "slug":  "tanzania-safari/7-day-tanzania-safari",
+        "currency":  "USD",
+        "imgkey":  "TZ",
+        "excerpt":  "Our most-requested week: Tarangire, crater Big Five, three Serengeti nights positioned for herds.",
+        "overview":  "Mainland northern-circuit itinerary from Arusha: Tarangire, Ngorongoro and the Serengeti in cooker-cutter-free order - camp zone set by your month, not a template. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Northern Serengeti over 7 days. Season logic: June-October dry season and January-March calving; camp zone follows the herds.",
+        "published":  true,
+        "name":  "7-Day Tanzania Safari: Serengeti, Ngorongoro \u0026 Tarangire",
+        "region":  "Tanzania Safari",
+        "relatedHubs":  [
+                            "/tanzania-safari/",
+                            "/africa-migration-safaris/"
+                        ],
+        "duration_days":  7,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "7-Day Tanzania Safari: Serengeti, Ngorongoro \u0026 Tarangire",
+        "safariCategory":  "Tanzania Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/tanzania-safari/7-day-tanzania-safari/",
+        "metaDescription":  "7-day Tanzania safari. Route: Tarangire - Ngorongoro Crater - Central Serengeti - Northern Serengeti over 7 days.",
+        "parks":  [
+                      "Tarangire",
+                      "Ngorongoro Crater",
+                      "Central Serengeti",
+                      "Northern Serengeti"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  1600,
+        "safariType":  "classic",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-safari/3-day-masai-mara-safari",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Maximum Mara, minimum transit: fly in, four-plus game drives, big cats and seasonal herds.",
+        "overview":  "Mara-depth itinerary: minimum three nights in the reserve or conservancy, river time in season, full-day picnic drives for crossings. A focused taste: one region done properly rather than three rushed. Route: Masai Mara over 3 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "3-Day Masai Mara Safari (Fly-In)",
+        "region":  "Kenya Safari",
+        "relatedHubs":  [
+                            "/kenya-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  3,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "3-Day Masai Mara Safari (Fly-In)",
+        "safariCategory":  "Kenya Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-safari/3-day-masai-mara-safari/",
+        "metaDescription":  "3-day Masai Mara safari. Route: Masai Mara over 3 days.",
+        "parks":  [
+                      "Masai Mara"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  2850,
+        "safariType":  "classic",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-safari/7-day-kenya-safari",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "The complete Kenya loop: tuskers, Rift lakes and three Mara nights.",
+        "overview":  "Nairobi-gateway loop mixing road and fly-in legs: Rift Valley lakes, Amboseli tuskers and Mara depth in one coherent circuit. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Amboseli - Lake Naivasha - Masai Mara over 7 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "7-Day Kenya Safari: Amboseli, Lakes \u0026 Masai Mara",
+        "region":  "Kenya Safari",
+        "relatedHubs":  [
+                            "/kenya-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  7,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "7-Day Kenya Safari: Amboseli, Lakes \u0026 Masai Mara",
+        "safariCategory":  "Kenya Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-safari/7-day-kenya-safari/",
+        "metaDescription":  "7-day Kenya safari. Route: Amboseli - Lake Naivasha - Masai Mara over 7 days.",
+        "parks":  [
+                      "Amboseli",
+                      "Lake Naivasha",
+                      "Masai Mara"
+                  ]
+    },
+    {
+        "country":  "Kenya",
+        "startingPoint":  "Nairobi",
+        "price_from":  5350,
+        "safariType":  "beach",
+        "endingPoint":  "Nairobi",
+        "slug":  "kenya-safari/10-day-kenya-safari-beach",
+        "currency":  "USD",
+        "imgkey":  "KE",
+        "excerpt":  "Seven safari days plus three Diani nights - direct Mara-to-coast flights.",
+        "overview":  "Kenya bush-to-beach: classic loop then direct Mara-to-Diani flights - no Nairobi backtrack. Grand-tour depth: two regions or bush-plus-beach without rushing. Route: Amboseli - Masai Mara - Diani Beach over 10 days. Season logic: July-October Migration herds; January-March clear skies and Kilimanjaro views.",
+        "published":  true,
+        "name":  "10-Day Kenya Safari \u0026 Diani Beach",
+        "region":  "Kenya Safari",
+        "relatedHubs":  [
+                            "/kenya-safari/",
+                            "/africa-safari-from-zanzibar/"
+                        ],
+        "duration_days":  10,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "10-Day Kenya Safari \u0026 Diani Beach",
+        "safariCategory":  "Kenya Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/kenya-safari/10-day-kenya-safari-beach/",
+        "metaDescription":  "10-day Kenya safari and beach. Route: Amboseli - Masai Mara - Diani Beach over 10 days.",
+        "parks":  [
+                      "Amboseli",
+                      "Masai Mara",
+                      "Diani Beach"
+                  ]
+    },
+    {
+        "country":  "Uganda",
+        "startingPoint":  "Entebbe",
+        "price_from":  2000,
+        "safariType":  "gorilla",
+        "endingPoint":  "Entebbe",
+        "slug":  "uganda-safari/3-day-gorilla-trekking",
+        "currency":  "USD",
+        "imgkey":  "UG",
+        "excerpt":  "Fly in, trek, spend an hour with mountain gorillas, fly out - permits secured first.",
+        "overview":  "Permit-first gorilla itinerary: availability checked before lodges, porter arranged, fitness briefing honest, forest finale done right. A focused taste: one region done properly rather than three rushed. Route: Bwindi over 3 days. Season logic: June-September and December-February dry windows for firm trekking trails.",
+        "published":  true,
+        "name":  "3-Day Gorilla Trekking Safari, Bwindi",
+        "region":  "Uganda Safari",
+        "relatedHubs":  [
+                            "/uganda-safari/",
+                            "/africa-gorilla-safaris/"
+                        ],
+        "duration_days":  3,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "3-Day Gorilla Trekking Safari, Bwindi",
+        "safariCategory":  "Uganda Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/uganda-safari/3-day-gorilla-trekking/",
+        "metaDescription":  "3-day gorilla trekking safari. Route: Bwindi over 3 days.",
+        "parks":  [
+                      "Bwindi"
+                  ]
+    },
+    {
+        "country":  "Uganda",
+        "startingPoint":  "Entebbe",
+        "price_from":  3850,
+        "safariType":  "gorilla",
+        "endingPoint":  "Entebbe",
+        "slug":  "uganda-safari/7-day-uganda-safari",
+        "currency":  "USD",
+        "imgkey":  "UG",
+        "excerpt":  "Kibale chimpanzees, Queen Elizabeth lions and channel cruise, Bwindi gorillas.",
+        "overview":  "Grand Uganda arc: rhinos, falls, chimps, lions, channel boats and gorillas - every ecosystem in one trip. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Kibale - Queen Elizabeth - Bwindi over 7 days. Season logic: June-September and December-February dry windows for firm trekking trails.",
+        "published":  true,
+        "name":  "7-Day Uganda Safari: Chimps, Lions \u0026 Gorillas",
+        "region":  "Uganda Safari",
+        "relatedHubs":  [
+                            "/uganda-safari/",
+                            "/africa-gorilla-safaris/"
+                        ],
+        "duration_days":  7,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "7-Day Uganda Safari: Chimps, Lions \u0026 Gorillas",
+        "safariCategory":  "Uganda Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/uganda-safari/7-day-uganda-safari/",
+        "metaDescription":  "7-day Uganda safari. Route: Kibale - Queen Elizabeth - Bwindi over 7 days.",
+        "parks":  [
+                      "Kibale",
+                      "Queen Elizabeth",
+                      "Bwindi"
+                  ]
+    },
+    {
+        "country":  "Uganda",
+        "startingPoint":  "Entebbe",
+        "price_from":  4900,
+        "safariType":  "gorilla",
+        "endingPoint":  "Entebbe",
+        "slug":  "uganda-safari/10-day-uganda-safari",
+        "currency":  "USD",
+        "imgkey":  "UG",
+        "excerpt":  "Murchison Falls and rhinos plus chimps, lions and gorillas - all of Uganda.",
+        "overview":  "Grand Uganda arc: rhinos, falls, chimps, lions, channel boats and gorillas - every ecosystem in one trip. Grand-tour depth: two regions or bush-plus-beach without rushing. Route: Murchison Falls - Kibale - Queen Elizabeth - Bwindi over 10 days. Season logic: June-September and December-February dry windows for firm trekking trails.",
+        "published":  true,
+        "name":  "10-Day Uganda Grand Safari",
+        "region":  "Uganda Safari",
+        "relatedHubs":  [
+                            "/uganda-safari/",
+                            "/africa-gorilla-safaris/"
+                        ],
+        "duration_days":  10,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "10-Day Uganda Grand Safari",
+        "safariCategory":  "Uganda Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/uganda-safari/10-day-uganda-safari/",
+        "metaDescription":  "10-day Uganda grand safari. Route: Murchison Falls - Kibale - Queen Elizabeth - Bwindi over 10 days.",
+        "parks":  [
+                      "Murchison Falls",
+                      "Kibale",
+                      "Queen Elizabeth",
+                      "Bwindi"
+                  ]
+    },
+    {
+        "country":  "Botswana",
+        "startingPoint":  "Maun",
+        "price_from":  4500,
+        "safariType":  "classic",
+        "endingPoint":  "Maun",
+        "slug":  "botswana-safari/5-day-botswana-safari",
+        "currency":  "USD",
+        "imgkey":  "BW",
+        "excerpt":  "Chobe riverfront herds plus Okavango mokoro waterways - Botswana essence.",
+        "overview":  "Fly-in Botswana circuit: light-aircraft hops between water, predator and riverfront camps - low beds, huge concessions, no crowds. The classic length for one region - full days without filler. Route: Chobe - Okavango Delta over 5 days. Season logic: May-October dry season; Delta flood peaks June-August.",
+        "published":  true,
+        "name":  "5-Day Botswana Explorer: Chobe \u0026 Okavango",
+        "region":  "Botswana Safari",
+        "relatedHubs":  [
+                            "/botswana-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  5,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "5-Day Botswana Explorer: Chobe \u0026 Okavango",
+        "safariCategory":  "Botswana Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/botswana-safari/5-day-botswana-safari/",
+        "metaDescription":  "5-day Botswana safari. Route: Chobe - Okavango Delta over 5 days.",
+        "parks":  [
+                      "Chobe",
+                      "Okavango Delta"
+                  ]
+    },
+    {
+        "country":  "Botswana",
+        "startingPoint":  "Maun",
+        "price_from":  7400,
+        "safariType":  "classic",
+        "endingPoint":  "Maun",
+        "slug":  "botswana-safari/8-day-botswana-safari",
+        "currency":  "USD",
+        "imgkey":  "BW",
+        "excerpt":  "Three camps, three ecosystems: Delta waterways, Moremi predators, Chobe herds.",
+        "overview":  "Fly-in Botswana circuit: light-aircraft hops between water, predator and riverfront camps - low beds, huge concessions, no crowds. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Okavango Delta - Moremi / Khwai - Chobe over 8 days. Season logic: May-October dry season; Delta flood peaks June-August.",
+        "published":  true,
+        "name":  "8-Day Botswana Safari: Okavango, Moremi \u0026 Chobe",
+        "region":  "Botswana Safari",
+        "relatedHubs":  [
+                            "/botswana-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  8,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "8-Day Botswana Safari: Okavango, Moremi \u0026 Chobe",
+        "safariCategory":  "Botswana Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/botswana-safari/8-day-botswana-safari/",
+        "metaDescription":  "8-day Botswana safari. Route: Okavango Delta - Moremi / Khwai - Chobe over 8 days.",
+        "parks":  [
+                      "Okavango Delta",
+                      "Moremi / Khwai",
+                      "Chobe"
+                  ]
+    },
+    {
+        "country":  "Namibia",
+        "startingPoint":  "Windhoek",
+        "price_from":  2750,
+        "safariType":  "classic",
+        "endingPoint":  "Windhoek",
+        "slug":  "namibia-safari/7-day-namibia-safari",
+        "currency":  "USD",
+        "imgkey":  "NA",
+        "excerpt":  "Sossusvlei, Swakopmund and Damaraland desert rhinos - guided or self-drive.",
+        "overview":  "Grand Namibia loop: dunes, coast, Damaraland rhinos and Etosha waterholes at self-drive or guided pace. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Sossusvlei - Swakopmund - Damaraland over 7 days. Season logic: May-October dry season for Etosha; dunes year-round.",
+        "published":  true,
+        "name":  "7-Day Namibia Safari: Dunes, Coast \u0026 Rhinos",
+        "region":  "Namibia Safari",
+        "relatedHubs":  [
+                            "/namibia-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  7,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "7-Day Namibia Safari: Dunes, Coast \u0026 Rhinos",
+        "safariCategory":  "Namibia Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/namibia-safari/7-day-namibia-safari/",
+        "metaDescription":  "7-day Namibia safari. Route: Sossusvlei - Swakopmund - Damaraland over 7 days.",
+        "parks":  [
+                      "Sossusvlei",
+                      "Swakopmund",
+                      "Damaraland"
+                  ]
+    },
+    {
+        "country":  "Namibia",
+        "startingPoint":  "Windhoek",
+        "price_from":  3950,
+        "safariType":  "classic",
+        "endingPoint":  "Windhoek",
+        "slug":  "namibia-safari/10-day-namibia-safari",
+        "currency":  "USD",
+        "imgkey":  "NA",
+        "excerpt":  "Desert half plus three Etosha waterhole nights - the complete journey.",
+        "overview":  "Grand Namibia loop: dunes, coast, Damaraland rhinos and Etosha waterholes at self-drive or guided pace. Grand-tour depth: two regions or bush-plus-beach without rushing. Route: Sossusvlei - Swakopmund - Damaraland - Etosha over 10 days. Season logic: May-October dry season for Etosha; dunes year-round.",
+        "published":  true,
+        "name":  "10-Day Namibia Grand Loop + Etosha",
+        "region":  "Namibia Safari",
+        "relatedHubs":  [
+                            "/namibia-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  10,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "10-Day Namibia Grand Loop + Etosha",
+        "safariCategory":  "Namibia Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/namibia-safari/10-day-namibia-safari/",
+        "metaDescription":  "10-day Namibia grand loop. Route: Sossusvlei - Swakopmund - Damaraland - Etosha over 10 days.",
+        "parks":  [
+                      "Sossusvlei",
+                      "Swakopmund",
+                      "Damaraland",
+                      "Etosha"
+                  ]
+    },
+    {
+        "country":  "South Africa",
+        "startingPoint":  "Johannesburg",
+        "price_from":  2850,
+        "safariType":  "classic",
+        "endingPoint":  "Johannesburg",
+        "slug":  "south-africa-safari/5-day-kruger-safari",
+        "currency":  "USD",
+        "imgkey":  "SA",
+        "excerpt":  "Off-road leopard viewing, night drives and walks in a private Sabi Sand concession.",
+        "overview":  "Bush-city-coast South Africa: Sabi Sand leopards plus Cape Town, winelands and optional Garden Route. The classic length for one region - full days without filler. Route: Sabi Sand over 5 days. Season logic: May-September for game; November-March for Cape Town.",
+        "published":  true,
+        "name":  "5-Day Kruger Safari: Sabi Sand Concession",
+        "region":  "South Africa Safari",
+        "relatedHubs":  [
+                            "/south-africa-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  5,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "5-Day Kruger Safari: Sabi Sand Concession",
+        "safariCategory":  "South Africa Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/south-africa-safari/5-day-kruger-safari/",
+        "metaDescription":  "5-day Kruger safari. Route: Sabi Sand over 5 days.",
+        "parks":  [
+                      "Sabi Sand"
+                  ]
+    },
+    {
+        "country":  "South Africa",
+        "startingPoint":  "Johannesburg",
+        "price_from":  5000,
+        "safariType":  "classic",
+        "endingPoint":  "Johannesburg",
+        "slug":  "south-africa-safari/9-day-south-africa",
+        "currency":  "USD",
+        "imgkey":  "SA",
+        "excerpt":  "Four nights Cape and winelands, four nights Sabi Sand leopard country.",
+        "overview":  "Bush-city-coast South Africa: Sabi Sand leopards plus Cape Town, winelands and optional Garden Route. Grand-tour depth: two regions or bush-plus-beach without rushing. Route: Cape Town - Winelands - Sabi Sand over 9 days. Season logic: May-September for game; November-March for Cape Town.",
+        "published":  true,
+        "name":  "9-Day South Africa: Cape Town, Winelands \u0026 Kruger",
+        "region":  "South Africa Safari",
+        "relatedHubs":  [
+                            "/south-africa-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  9,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "9-Day South Africa: Cape Town, Winelands \u0026 Kruger",
+        "safariCategory":  "South Africa Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/south-africa-safari/9-day-south-africa/",
+        "metaDescription":  "9-day South Africa. Route: Cape Town - Winelands - Sabi Sand over 9 days.",
+        "parks":  [
+                      "Cape Town",
+                      "Winelands",
+                      "Sabi Sand"
+                  ]
+    },
+    {
+        "country":  "Ethiopia",
+        "startingPoint":  "Addis Ababa",
+        "price_from":  3550,
+        "safariType":  "classic",
+        "endingPoint":  "Addis Ababa",
+        "slug":  "ethiopia-safari/8-day-ethiopia-historic",
+        "currency":  "USD",
+        "imgkey":  "ET",
+        "excerpt":  "Lalibela churches, Gondar castles, three Simien trekking days with geladas.",
+        "overview":  "Historic-and-highland Ethiopia: rock churches, castles, Simien trekking and valley cultures matched to current conditions. The sweet spot: depth plus a buffer day for weather, herds and rest. Route: Lalibela - Simien Mountains over 8 days. Season logic: October-March dry season.",
+        "published":  true,
+        "name":  "8-Day Ethiopia: Historic North + Simien",
+        "region":  "Ethiopia Safari",
+        "relatedHubs":  [
+                            "/ethiopia-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "duration_days":  8,
+        "accommodationLevel":  "mid-range to luxury",
+        "seoTitle":  "8-Day Ethiopia: Historic North + Simien",
+        "safariCategory":  "Ethiopia Safari",
+        "canonical":  "https://www.adventuresafariafrica.com/ethiopia-safari/8-day-ethiopia-historic/",
+        "metaDescription":  "8-day Ethiopia historic north. Route: Lalibela - Simien Mountains over 8 days.",
+        "parks":  [
+                      "Lalibela",
+                      "Simien Mountains"
+                  ]
+    },
+    {
+        "name":  "12-Day Ethiopia Grand Tour",
+        "slug":  "ethiopia-safari/12-day-ethiopia-grand",
+        "country":  "Ethiopia",
+        "region":  "Ethiopia Tours",
+        "startingPoint":  "Addis Ababa",
+        "endingPoint":  "Addis Ababa",
+        "duration_days":  12,
+        "safariType":  "classic",
+        "safariCategory":  "Ethiopia Tours",
+        "parks":  [
+                      "Lalibela",
+                      "Simien Mountains",
+                      "Omo Valley"
+                  ],
+        "accommodationLevel":  "mid-range to luxury",
+        "price_from":  5400,
+        "currency":  "USD",
+        "imgkey":  "ET",
+        "excerpt":  "North, Simien and Omo in one grand circuit.",
+        "overview":  "",
+        "relatedHubs":  [
+                            "/ethiopia-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "seoTitle":  "12-Day Ethiopia Grand Tour",
+        "metaDescription":  "12-day Ethiopia grand tour.",
+        "canonical":  "https://www.adventuresafariafrica.com/ethiopia-safari/12-day-ethiopia-grand/",
+        "published":  true
+    },
+    {
+        "name":  "7-Day Omo Valley Expedition",
+        "slug":  "ethiopia-safari/7-day-omo-valley",
+        "country":  "Ethiopia",
+        "region":  "Ethiopia Tours",
+        "startingPoint":  "Addis Ababa",
+        "endingPoint":  "Addis Ababa",
+        "duration_days":  7,
+        "safariType":  "classic",
+        "safariCategory":  "Ethiopia Tours",
+        "parks":  [
+                      "Omo Valley"
+                  ],
+        "accommodationLevel":  "mid-range to luxury",
+        "price_from":  3200,
+        "currency":  "USD",
+        "imgkey":  "ET",
+        "excerpt":  "Hamar, Mursi and Karo with community guides.",
+        "overview":  "",
+        "relatedHubs":  [
+                            "/ethiopia-safari/",
+                            "/africa-safari-packages/"
+                        ],
+        "seoTitle":  "7-Day Omo Valley Expedition",
+        "metaDescription":  "7-day Omo Valley expedition.",
+        "canonical":  "https://www.adventuresafariafrica.com/ethiopia-safari/7-day-omo-valley/",
+        "published":  true
+    }
+]

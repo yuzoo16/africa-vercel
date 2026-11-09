@@ -1,0 +1,570 @@
+/* ============================================================================
+   ADVENTURE SAFARI AFRICA - SHARED STYLE GUIDE
+   SECTION INDEX:
+   01. Design tokens
+   02. Base typography
+   03. Header and navigation
+   04. Buttons
+   05. Hero
+   06. Sections and cards
+   07. Forms and proposal planner
+   08. Footer
+   09. Mobile layout
+   10. Mega menu
+   11. Shared vertical spacing
+   ============================================================================ */
+
+/* 01. DESIGN TOKENS */
+:root{--forest:#1a3c34;--forest-2:#24493f;--sand:#c9a86a;--sand-ink:#7d6235;--sand-2:#e8dcc3;--paper:#faf8f3;--ink:#20241f;--muted:#5d655e;--char:#232825;--line:#e5ddcc;--radius:14px;--max:1200px;--font-d:"Fraunces",Georgia,serif;--font-b:"Inter",system-ui,-apple-system,Segoe UI,Roboto,sans-serif;--fs-body:16px;--fs-h1:40px;--fs-h2:30px;--fs-h3:20px;--fs-h4:16px;--fs-h5:15px;--fs-h6:14px}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font-family:var(--font-b);color:var(--ink);background:var(--paper);line-height:1.65;font-size:var(--fs-body);-webkit-font-smoothing:antialiased}
+img{max-width:100%;height:auto;display:block}img[data-src]{opacity:0;transition:opacity .4s}img.loaded{opacity:1}
+/* 02. BASE TYPOGRAPHY AND SHARED CONTENT */
+a{color:var(--forest);text-underline-offset:3px}.wrap{max-width:var(--max);margin:0 auto;padding:0 22px}
+h1,h2,h3{font-family:var(--font-d);line-height:1.15;color:var(--forest);letter-spacing:-.01em}h1{font-size:var(--fs-h1)}h2{font-size:var(--fs-h2);margin:0 0 14px;color:var(--sand-ink)}.hero h2,.cta-band h2,.quote h2,.hp-quote h2,.dark h2{color:#fff}h3{font-size:var(--fs-h3);margin:0 0 12px}h4{font-size:var(--fs-h4);margin:0 0 10px}h5{font-size:var(--fs-h5);margin:0 0 8px}h6{font-size:var(--fs-h6);margin:0 0 8px}
+.eyebrow{text-transform:uppercase;letter-spacing:.18em;font-size:.75rem;color:#f7b104!important;font-weight:700}.hero .eyebrow,.cta-band .eyebrow,footer .eyebrow{color:#f7b104!important}
+.lead{font-size:1.15rem;color:#37413b;max-width:62ch}
+/* section heading promoted from the lead paragraph: keep it rendering exactly
+   like the paragraph it came from (Inter 400, body leading, normal spacing) */
+h2.lead{font-family:var(--font-b);font-weight:400;line-height:1.65;letter-spacing:normal;margin:1em 0}
+/* header */
+/* 03. HEADER AND NAVIGATION */
+.skip{position:absolute;left:-999px}.skip:focus{left:12px;top:12px;background:#fff;padding:8px 14px;z-index:99}
+
+.nav-lang{margin-left:4px}.nav-lang .langsw{gap:2px;align-items:center}.nav-lang .langsw a{display:inline-flex;align-items:center;justify-content:center;border:1px solid var(--line);color:var(--char);background:#fff;padding:4px 4px;border-radius:7px;font-size:.74rem;font-weight:700;letter-spacing:0;text-decoration:none;min-width:24px;min-height:24px}.nav-lang .langsw a:hover,.nav-lang .langsw a:focus-visible{border-color:var(--forest);color:var(--forest);background:#f0e9d6}header.site{position:sticky;top:0;z-index:50;background:rgba(250,248,243,.94);backdrop-filter:blur(10px);border-bottom:1px solid var(--line);transition:transform .28s ease,box-shadow .28s ease;will-change:transform}
+header.site.header-hidden{transform:translateY(-105%);box-shadow:none}
+/* position:relative makes .nav the containing block for the open mobile menu, so the expanded link list anchors to the bottom of the bar rather than to the page. */
+.nav{display:flex;align-items:center;gap:14px;padding:12px 22px;max-width:var(--max);margin:0 auto;position:relative}
+.brand{display:flex;align-items:center;gap:9px;font-family:var(--font-d);font-weight:700;font-size:1.15rem;color:var(--forest);text-decoration:none;white-space:nowrap}
+.brand small{display:block;font-family:var(--font-b);font-size:.62rem;letter-spacing:.22em;color:var(--sand-ink);font-weight:700}
+/* Brand logo. The artwork is a landscape 1024x682 (sun at x466, horizon curve
+   sweeping to x856), so it was squared by extending the canvas with the
+   artwork's own background green rather than by cropping - nothing in the mark
+   is cut off. assets/logo.png is 120x120, which is 3x the 40px slot and so
+   stays sharp on dense phone and tablet screens; the 34px rule below covers
+   <=960px.
+   alt is empty on purpose: the image sits inside the <a class="brand"> link
+   whose .brand-t text already reads "Adventure Safari Africa", so giving the
+   image the same text would make screen readers announce the name twice.
+   background:#1c3024 matches the artwork's own field so the tile looks filled
+   before the image paints. */
+.brand-logo{flex:0 0 auto;width:40px;height:40px;border-radius:11px;display:block;object-fit:cover;overflow:hidden;background:#1c3024}
+nav.main{display:flex;gap:4px;margin-left:auto}nav.main>div{position:relative}.navlink{background:none;border:0;font:inherit;font-weight:600;color:var(--char);padding:10px 9px;cursor:pointer;text-decoration:none;display:inline-block;font-size:.93rem}.navlink:hover,.navlink:focus-visible{color:var(--forest);background:#f0e9d6;border-radius:8px}
+
+
+
+.cta-row{display:flex;gap:10px;margin-left:6px}
+/* 04. BUTTONS */
+.btn{display:inline-block;border-radius:999px;padding:12px 22px;font-weight:700;text-decoration:none;border:1px solid transparent;cursor:pointer;font-size:.95rem;transition:.18s}.btn-p{background:var(--forest);color:#fff}.btn-p:hover{background:var(--forest-2);transform:translateY(-1px)}.btn-g{background:var(--sand);color:#221d10}.btn-g:hover{filter:brightness(1.05)}.btn-o{background:transparent;border-color:var(--forest);color:var(--forest)}.btn-o:hover{background:var(--forest);color:#fff}.btn-wa{background:#14803f;color:#fff}.btn-sm{padding:9px 16px;font-size:.85rem}
+.burger{display:none;margin-left:auto;background:none;border:1px solid var(--line);border-radius:10px;padding:9px 12px;font-size:1.1rem}
+/* hero */
+/* 05. HERO */
+.hero{position:relative;color:#fff;background:var(--forest);overflow:hidden}.hero img.bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:.62}.hero::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(20,35,30,.35),rgba(20,35,30,.72))}.hero-in{position:relative;z-index:2;max-width:var(--max);margin:0 auto;padding:88px 22px 66px}.hero h1{color:#fff;max-width:14ch;margin:.4rem 0 .8rem}.hero p.sub{max-width:60ch;color:#f2ecdc;font-size:1.12rem}.hero-ctas{display:flex;flex-wrap:wrap;gap:12px;margin-top:22px}.hero-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}.pill{background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.35);border-radius:999px;padding:6px 14px;font-size:.83rem;backdrop-filter:blur(4px)}
+.trust{display:flex;flex-wrap:wrap;gap:16px;margin-top:20px;font-size:.88rem;color:#f2ecdc}
+/* sections/cards */
+/* 06. SECTIONS AND CARDS */
+section.block{padding:48px 0}section.block.alt{background:#f1ebda}.grid{display:grid;gap:20px}.g2{grid-template-columns:repeat(2,1fr)}.g3{grid-template-columns:repeat(3,1fr)}.g4{grid-template-columns:repeat(4,1fr)}.grid[style*="--grid-min"]{grid-template-columns:repeat(auto-fit,minmax(var(--grid-min),1fr))}
+.card{background:#fff;border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;display:flex;flex-direction:column;transition:.2s}.card:hover{transform:translateY(-3px);box-shadow:0 18px 40px rgba(26,60,52,.12)}.card img{aspect-ratio:16/10;object-fit:cover;width:100%}.card .pad{padding:18px}
+/* TOC links inside cards render as display:inline, so their box is only the
+   font's own height - below the 24px minimum touch target. Promoting them to
+   inline-block with vertical padding brings the box above 24px at every
+   breakpoint: at desktop body is 16px (26.4px line box) but at phone the body
+   scale drops to 11px, so 18.15px + 8px padding = 26.15px, still over the
+   minimum. Scoped to the card body so nav and footer links keep
+   their existing metrics. */
+.card .pad ul li a{display:inline-block;padding:4px 0}
+/* The same touch-target problem, but for the multi-column destination lists:
+   .ulgrid/.ulgrid2 links sit directly in the page body (never inside a card, so
+   the rule above cannot reach them). At phone the .97rem line box is only 13px,
+   so 6px above and below is what clears the 24px minimum; the list's 3px row gap
+   then leaves consecutive targets 28px apart, over the 24px spacing minimum. */
+.ulgrid>li>a,.ulgrid2>li>a{display:inline-block;padding:6px 0}
+.card h3{margin:.2rem 0 .4rem}.card p{color:var(--muted);font-size:.95rem;margin:.3rem 0 .8rem}.card .meta{font-size:.8rem;color:var(--muted)}
+.price{font-weight:800;color:var(--forest)}.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:18px}.facts b{display:block;font-size:.75rem;text-transform:uppercase;letter-spacing:.1em;color:var(--sand-ink)}
+.itin{border:1px solid var(--line);border-radius:var(--radius);background:#fff;overflow:hidden}.itin details{border-bottom:1px solid var(--line);padding:16px 18px}.itin details:last-child{border-bottom:0}.itin summary{cursor:pointer;font-weight:700;color:var(--forest);font-family:var(--font-d);font-size:1.05rem}
+.faq details{background:#fff;border:1px solid var(--line);border-radius:10px;padding:14px 16px;margin-bottom:10px}.faq summary{cursor:pointer;font-weight:700;color:var(--forest)}
+.cta-band{background:var(--forest);color:#fff;border-radius:18px;padding:36px;display:grid;grid-template-columns:1.3fr .7fr;gap:22px;align-items:center}.cta-band h2{color:#fff;margin:0 0 .5rem}.cta-band p{color:#e8e0c9}
+/* The breadcrumb bar (`.crumbs`) was removed sitewide - it showed the current page
+   between the header and the hero. Its rules went with it. */
+table.cmp{width:100%;border-collapse:collapse;background:#fff;border-radius:12px;overflow:hidden;font-size:.93rem}table.cmp th,table.cmp td{border:1px solid var(--line);padding:10px 12px;text-align:left}table.cmp th{background:var(--forest);color:#fff}
+/* 07. FORMS AND PROPOSAL PLANNER */
+form.lead-form{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:26px;display:grid;gap:14px}.f2{display:grid;grid-template-columns:1fr 1fr;gap:14px}label{font-weight:600;font-size:.9rem}input,select,textarea{width:100%;padding:12px 14px;border:1px solid #cfc6ad;border-radius:10px;font:inherit;background:#fffdf7}input:focus,select:focus,textarea:focus{outline:3px solid rgba(201,168,106,.4);border-color:var(--sand)}button[type=submit]{justify-self:start}
+/* footer */
+/* 08. FOOTER */
+footer{background:var(--char);color:#d8d2bd;margin-top:0}footer .wrap{padding-top:52px;padding-bottom:26px}footer a{color:#d8d2bd;text-decoration:none}footer a:hover{color:#fff;text-decoration:underline}.fgrid{display:grid;grid-template-columns:1.4fr repeat(4,1fr);gap:26px}footer h2,footer h4{color:var(--sand);font-size:.8rem;letter-spacing:.14em;text-transform:uppercase;margin:1.33em 0}.fbot{border-top:1px solid #3a403b;margin-top:28px;padding-top:18px;display:flex;flex-wrap:wrap;gap:12px;justify-content:space-between;font-size:.83rem;color:#a9a394}
+.nav-lang .langsw{display:flex}
+/* mobile cta */
+/* 09. MOBILE LAYOUT */
+
+/* quiz */
+.quiz{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:26px}.quiz .q{margin-bottom:18px}.quiz .opts{display:flex;flex-wrap:wrap;gap:10px}.quiz .opt{border:1px solid var(--line);border-radius:999px;padding:9px 16px;cursor:pointer;background:#fffdf7}.quiz .opt.sel{background:var(--forest);color:#fff;border-color:var(--forest)}.progress{height:8px;background:#eee4cb;border-radius:99px;overflow:hidden}.progress i{display:block;height:100%;background:var(--sand)}
+.quiz-actions,.quiz-result-actions{display:flex;gap:10px;margin-top:18px;flex-wrap:wrap}
+.quiz-error{color:#a12622;font-weight:700;margin:12px 0 0}
+.quiz .q[hidden]{display:none}
+.searchres{display:grid;gap:10px}.searchres a{display:block;background:#fff;border:1px solid var(--line);border-radius:10px;padding:12px 14px;text-decoration:none;color:var(--ink)}
+@media(max-width:960px){nav.main,.cta-row{display:none}.burger{display:block}nav.main.open .nav-lang{margin-left:0;margin-top:8px;padding-top:10px;border-top:1px solid var(--line)}nav.main.open .nav-lang .langsw{gap:6px}nav.main.open .nav-lang .langsw a{padding:6px 10px;min-width:34px;min-height:34px}nav.main.open{display:grid;position:absolute;top:100%;left:0;right:0;background:#fff;border-bottom:1px solid var(--line);padding:14px;gap:2px;z-index:60}.g3,.g4,.cta-band{grid-template-columns:1fr}.g2{grid-template-columns:1fr}.fgrid{grid-template-columns:1fr 1fr}.f2{grid-template-columns:1fr}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+:focus-visible{outline:3px solid var(--sand);outline-offset:2px}
+
+/* Journey cards */
+.journey-card .pad{display:flex;flex-direction:column;height:100%}
+.journey-meta{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:8px}
+.journey-desc{color:var(--muted);font-size:.95rem;line-height:1.6;margin-bottom:12px;flex:1}
+.journey-highlights{list-style:none;padding:0;margin:0 0 16px;font-size:.88rem;color:var(--ink)}
+.journey-highlights li{padding:4px 0;border-bottom:1px solid var(--line)}
+.journey-highlights li:last-child{border-bottom:none}
+.journey-price{display:flex;align-items:center;justify-content:space-between;margin-top:auto;padding-top:12px;border-top:1px solid var(--line)}
+.journey-price .price{font-size:1.1rem}
+
+/* Value cards */
+.value-card{text-align:center}
+.value-card .pad{padding:32px 24px}
+.value-icon{line-height:1}
+
+/* Review cards */
+.review-card .pad{display:flex;flex-direction:column;height:100%}
+.stars{font-size:1.1rem;margin-bottom:8px;line-height:1}
+.review-text{font-size:1rem;line-height:1.7;color:var(--ink);margin:0 0 12px;flex:1}
+.review-meta{font-size:.85rem;color:var(--muted);margin:0 0 10px}
+.srcbadge{display:inline-block;background:#f0e9d6;border:1px solid var(--line);border-radius:999px;padding:2px 10px;font-size:.7rem;font-weight:700;color:var(--forest);text-transform:uppercase;letter-spacing:.05em}
+
+/* Text utilities */
+.text-center{text-align:center}
+
+/* Card hover enhancement */
+.card:focus-within{transform:translateY(-3px);box-shadow:0 18px 40px rgba(26,60,52,.12)}
+
+/* Pill in hero meta - already exists, ensure consistency */
+.pill{font-size:.78rem;padding:5px 12px}
+
+/* Multi-column bullet lists (long destination / packing / wildlife lists) */
+.ulgrid,.ulgrid2{display:grid;gap:3px 26px;list-style:disc;padding-left:20px;margin:14px 0}
+.ulgrid{grid-template-columns:repeat(3,minmax(0,1fr))}
+.ulgrid2{grid-template-columns:repeat(2,minmax(0,1fr))}
+.ulgrid li,.ulgrid2 li{margin:0;font-size:.97rem;line-height:1.55;color:#37413b}
+@media(max-width:900px){.ulgrid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:560px){.ulgrid,.ulgrid2{grid-template-columns:minmax(0,1fr)}}
+
+/* ===== Image footprint control (all five language trees share this sheet) =====
+   Day-by-day itinerary and tab photos were inheriting no size rule, so each one
+   rendered as a full-width block ~680px tall. Cap them to a compact 16:10 card
+   so long itineraries stay scannable. The 16:10 ratio matches the source files
+   (800x500 / 900x560), so nothing is cropped. */
+.itin img,.tabpane img{display:block;width:100%;max-width:460px;height:auto;aspect-ratio:16/10;object-fit:cover;border-radius:12px}
+
+/* Standalone illustrations dropped into prose: centred, modest, softly rounded. */
+main .wrap>img:not(.bg),main .block>img:not(.bg){display:block;width:100%;max-width:520px;height:auto;aspect-ratio:16/10;object-fit:cover;border-radius:14px;margin:24px auto;box-shadow:0 10px 28px rgba(26,60,52,.10)}
+
+/* On phones let them use the full column, but keep the corners tidy. */
+@media(max-width:640px){.itin img,.tabpane img,main .wrap>img:not(.bg),main .block>img:not(.bg){max-width:100%;border-radius:10px;box-shadow:none}}
+
+/* =============================================================================
+   RESPONSIVE TYPE SCALE  (applies to all 1,462 pages / 5 language trees)
+   -----------------------------------------------------------------------------
+   Two fixed endpoints, one shared scale:
+     DESKTOP (>960px)  paragraph 16px   H1 40px   H2 30px   H3 20px   H4 16px   H5 15px   H6 14px
+     PHONE  (<=640px)  paragraph 11px   H1 17px   H2 15px   H3 13px   H4 12px   H5 11.5px H6 11px
+   Between 641px and 960px the values interpolate linearly, so tablets land on an
+   even middle ground instead of snapping from desktop type straight to phone type.
+
+   html {font-size} is scaled with the paragraph value. Everything in this sheet
+   that is sized in `rem` (lead, cards, tables, meta, captions, buttons, footer,
+   the .art- helpers on the article pages) therefore shrinks by the same ratio,
+   keeping the whole layout proportional rather than only the body copy.
+   ============================================================================= */
+@media(max-width:960px){
+  :root{
+    --fs-body:clamp(11px,1px + 1.5625vw,16px);
+    --fs-h1:clamp(17px,-29px + 7.1875vw,40px);
+    --fs-h2:clamp(15px,-15px + 4.6875vw,30px);
+    --fs-h3:clamp(13px,-1px + 2.1875vw,20px);
+    --fs-h4:clamp(12px,4px + 1.25vw,16px);
+    --fs-h5:clamp(11.5px,4.5px + 1.09375vw,15px);
+    --fs-h6:clamp(11px,5px + .9375vw,14px);
+    font-size:clamp(11px,1px + 1.5625vw,16px);
+  }
+
+  /* --- safeguards: keep controls and dense data usable at phone scale --- */
+
+  /* iOS zooms the viewport when a field renders below 16px - pin the floor. */
+  input,select,textarea{font-size:max(16px,1rem)}
+
+  /* CTA buttons stay legible and comfortably tappable. */
+  .btn,.btn-sm{font-size:max(13px,.82rem)}
+
+  /* Comparison / itinerary tables stay readable instead of collapsing to ~9px. */
+  table.cmp,.art-table,.itin summary,.faq summary{font-size:max(12px,.78rem)}
+
+  /* Tertiary labels are tap targets too - never below 10px. */
+  .card .meta,.review-meta,.fbot,.trust,.pill{font-size:max(10px,.7rem)}
+
+  /* Small metadata, captions and labels that carry their own rem rule and would
+     otherwise land in the 7-9px range at phone scale. */
+  .eyebrow,.facts b,.journey-highlights,.srcbadge,figcaption,.art-fig figcaption,
+  footer h2,footer h4,.brand small{font-size:max(10px,.7rem)}
+
+  /* Touch targets. The target-size audit wants every target at least 24x24, or
+     8px clear of its neighbours. The footer stacks its links with <br> inside a
+     single <p>, so at phone scale their line boxes came out ~16px tall and every
+     one of them failed the audit. inline-block is what makes min-height take
+     effect - it is ignored on a purely inline box. Desktop is untouched because
+     this whole block is inside the phone media query. */
+  footer a{display:inline-block;min-height:24px;min-width:24px;line-height:24px}
+
+  /* The footer's first column holds the five-link language switcher, which cannot
+     shrink below its own content. Grid items default to min-width:auto, so that
+     column locked itself at ~202px and shoved the second column 6px past the
+     viewport at 360px. Let the tracks shrink and let the switcher wrap instead. */
+  .fgrid>div{min-width:0}
+  .nav-lang .langsw{flex-wrap:wrap}
+
+  /* --- floors that must out-rank the per-page inline <style> blocks ---
+     .art-fig figcaption, .art-table caption and .art-table thead th are declared
+     in an inline <style> in each article's <head>, which follows this sheet and so
+     wins at equal specificity. Prefixing with `main` adds an extra element
+     (element count is compared after class count, so the extra element wins). */
+  main .art-fig figcaption,main figcaption{font-size:max(10px,.7rem)}
+  main .art-table caption{font-size:max(11px,.74rem)}
+  main .art-table thead th,main .art-table tbody th,main .art-table tbody td{font-size:max(12px,.78rem)}
+  .art-table td,table.cmp,table.cmp th,table.cmp td{font-size:max(12px,.78rem)}
+
+  /* Compact CTAs. The desktop pill (12px x 22px) reads as an oversized blob at
+     phone scale and left adjacent buttons wrapping into ragged rows. Tightening
+     the padding and the gutters lines them up; the font floor above keeps the
+     copy legible and the box still measures well past the 24x24 target. */
+  .btn{padding:8px 14px}
+  .btn-sm{padding:6px 11px}
+  .hero-ctas{gap:8px}
+  .quiz .opts{gap:8px}
+  .quiz .opt{padding:7px 13px}
+
+  /* The logo slot shrinks with the bar so the brand keeps its share of the row. */
+  .brand-logo{width:34px;height:34px;border-radius:9px}
+}
+
+/* The bar is at its tightest just above the burger breakpoint: brand (now plus the
+   40px logo slot) + the longest nav labels (French: "Destinations",
+   "Decouvrir l'Afrique") + CTA + the language row over-run 961px. Reclaim ~40px
+   from spacing only - side padding, brand and CTA are untouched, so alignment and
+   tap targets hold. FRENCH is the binding case: it measured 25px over at 961px
+   and 6px over at 980px with the previous, looser values. */
+@media(min-width:961px) and (max-width:1140px){
+  .nav{gap:8px}
+  nav.main{gap:0}
+  .navlink{padding:10px 5px}
+  .nav-lang{margin-left:2px}
+  .cta-row{margin-left:2px}
+}
+
+/* =============================================================================
+   PROPOSAL / ENQUIRY FORM ENHANCEMENTS   (6 lead forms: en, de, fr, es, it + home)
+   -----------------------------------------------------------------------------
+   [hidden] must beat any display rule, otherwise the conditional "which countries
+   are you combining?" picker and the flight block would not actually collapse.
+   fieldsets default to min-inline-size:min-content, which lets a width:100% select
+   push the grid wider than its column - kill that with min-width:0.
+   ========================================================================== */
+[hidden]{display:none!important}
+
+fieldset.fset{min-width:0;margin:0;padding:14px 16px 17px;border:1px solid var(--line);border-radius:12px;background:#fffdf7}
+fieldset.fset legend{font-family:var(--font-d);font-size:max(15px,1.05rem);font-weight:700;line-height:1.3;color:var(--forest);padding:0 10px}
+
+.chipset{display:flex;flex-wrap:wrap;gap:8px}
+.chip{display:inline-flex;align-items:center;gap:7px;min-height:36px;padding:8px 14px;border:1px solid var(--line);border-radius:999px;background:#fff;font-size:max(13px,.92rem);font-weight:600;line-height:1.25;cursor:pointer;transition:.15s}
+.chip:hover{border-color:var(--sand);background:#fffbf1}
+.chip input{width:auto;margin:0;accent-color:var(--forest)}
+.chip:has(input:checked){background:var(--forest);border-color:var(--forest);color:#fff}
+.chip:has(input:checked) input{accent-color:var(--sand)}
+.chip:has(input:focus-visible){outline:3px solid rgba(201,168,106,.55);outline-offset:2px}
+
+.hint{margin:8px 0 0;font-size:max(13px,.84rem);line-height:1.55;color:var(--muted)}
+#dest-multi select{min-height:152px;padding:9px 12px}/* safari-kind is the form's second multi-select (multiple size=6): give it the same box metrics so both pickers read as one system */#safari-kind{min-height:152px;padding:9px 12px}
+#dest-multi,#flight-details{padding-top:2px}
+
+/* labels and the manual day counter need a floor too - at phone scale html is
+   11px, so the .9rem/.92rem rules above would otherwise land at ~10px. */
+label{font-size:max(13px,.9rem)}
+input[type=date]{min-height:44px}
+
+/* Heading-outline repair.
+   A number of pages opened an h1 straight into a grid of h3 titles, which axe
+   reports as heading-order (a skipped level) and Lighthouse scores against
+   accessibility. Those titles are now h2 so the outline descends cleanly, and
+   these rules restore exactly what the h3 rendered - measured at 20px /
+   --forest - so the promotion is invisible rather than a 30px sand-ink jump.
+   Scoped to a class, never a bare .card h2, because one page already has a
+   card that legitimately contains an h2. */
+h2.cardttl{font-size:var(--fs-h3);margin:.2rem 0 .4rem;color:var(--forest)}
+h2.quizq{font-size:var(--fs-h3);margin:1em 0;color:var(--forest)}
+
+/* Touch-target sizing.
+   The plain link lists inside .wrap render as 20px anchors under the 24px
+   minimum Lighthouse scores in target-size. Getting to 24px without disturbing
+   the page takes two things:
+     - inline-block, because Lighthouse reads the box and an inline element's
+       padding never enters it (padding alone still measured 20px);
+     - line-height 20px + 2px padding, so the box lands on exactly 24px while
+       staying under the list's 26.4px line pitch - a taller box would overlap
+       its neighbour, and Lighthouse then reports the visible sliver instead
+       (18.1px, "partially obscured").
+   Measured: box 24px, gap 2.4px, Lighthouse effective size 25.2px, and the
+   list keeps its exact original height. Scoped to <main> so header, footer and
+   nav lists are untouched. */
+main .wrap > ul > li > a{display:inline-block;line-height:20px;padding:2px 0;margin:0}
+
+/* Link-trail paragraphs - the "Kenya safari -> Maasai Mara -> Balloon safari"
+   runs that are navigation rather than prose. Prose links are exempt as inline
+   text, but a paragraph that is nothing but links is a run of standalone
+   targets, and at Lighthouse's emulated mobile width the site's clamp() floor
+   drops body text to 11px, so they measure 14px tall and fail target-size.
+   Raising the line box to 26px and letting each anchor be an inline-block box
+   of the same height gives every link a full 26px target with zero gap between
+   wrapped lines. 26px is also the line-height these paragraphs already have at
+   desktop width, so nothing moves there.
+   :has(> a ~ a ~ a) matches paragraphs holding three or more sibling links,
+   which separates a trail from a sentence that merely cites two pages - 1,984
+   prose paragraphs with 2+ links are left untouched. It can still catch a
+   genuine prose paragraph that happens to cite three pages, so the line-height
+   bump is confined to mobile widths: at desktop those paragraphs keep their
+   existing 30.36px and nothing moves. */
+main .wrap > p:has(> a ~ a ~ a) > a{display:inline-block;line-height:26px}
+@media (max-width:700px){
+  main .wrap > p:has(> a ~ a ~ a){line-height:26px}
+}
+
+
+/* ===========================================================================
+   10. MEGA MENU
+   MEGA MENU  (desktop-only enhancement)
+   ---------------------------------------------------------------------------
+   Each of the three hub nav items - Destinations / Safaris / Discover - keeps
+   behaving as the plain link it already is and additionally reveals a panel
+   holding the same curated links that language's footer already publishes.
+   assets/site.js lines 25-31 record why no JS may drive this: an inline
+   style.display would outrank the max-width:960px media query, so the reveal
+   is left to :hover and :focus-within alone. Keyboard users tab from the
+   trigger straight into the panel. display:none outside min-width:961px keeps
+   the panels out of the collapsed burger menu - which is a grid of the nav
+   items below 960px - and therefore also out of Lighthouse's mobile
+   emulation. On phone and for assistive tech every panel link stays reachable
+   through the footer sitemap, so nothing is hidden that is not offered
+   elsewhere. The panel is flush at top:100%, leaving no gap between trigger
+   and panel for the pointer to cross, which is what keeps :hover continuous.
+   ========================================================================== */
+.has-mega{position:relative}
+.mega{display:none;position:absolute;top:100%;left:-9px;z-index:65;width:max-content;max-width:calc(100vw - 40px);background:#fff;border:1px solid var(--line);border-radius:14px;box-shadow:0 18px 44px rgba(32,36,31,.14);padding:16px 18px 14px}
+@media(min-width:961px){
+  .has-mega:hover>.mega,.has-mega:focus-within>.mega{display:block}
+  .has-mega.open>.mega{display:block}
+}
+.has-mega>.navlink::after{content:"";display:inline-block;width:7px;height:7px;margin:0 0 2px 7px;border-right:1px solid currentColor;border-bottom:1px solid currentColor;transform:rotate(45deg);vertical-align:middle;transition:transform .18s}
+.has-mega.open>.navlink::after{transform:rotate(225deg) translate(-2px,-2px)}
+.mega-t{display:block;font-size:.7rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:var(--forest);margin:0 0 8px;white-space:nowrap}
+.mega-c{display:grid;grid-template-columns:repeat(2,minmax(140px,max-content));column-gap:18px;row-gap:2px}
+.mega-c a{display:block;padding:7px 9px;border-radius:8px;font-size:.9rem;font-weight:600;color:var(--char);text-decoration:none;white-space:nowrap}
+.mega-c a:hover,.mega-c a:focus-visible{background:#f0e9d6;color:var(--forest)}
+/* --------------------------------------------------------------------------
+   Phone accordion. Touch devices do not hover - a tap navigates - so at
+   <=960px each hub carries its own disclosure button beside the link and the
+   panel drops inline into the burger-menu grid instead of floating over the
+   page. The <a class="navlink"> is untouched, so tapping "Destinations" still
+   goes to the destinations hub; the button is purely an extra affordance.
+   Hidden in the base rules and shown only inside the media query - the same
+   pattern .burger uses - so desktop never renders a stray button and the
+   toggle cannot leak above 960px. The .mega override below neutralises every
+   piece of the floating-panel presentation (absolute positioning, max-content
+   width, border, shadow, padding) so the panel reads as a nested list rather
+   than a card hovering over the menu. */
+.mega-toggle{display:none;width:44px;height:44px;align-items:center;justify-content:center;background:none;border:0;border-radius:10px;cursor:pointer;padding:0;color:var(--forest)}
+.mega-toggle::after{content:"";width:9px;height:9px;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg) translate(-2px,-2px);transition:transform .18s}
+.mega-toggle:focus-visible{outline:2px solid var(--forest);outline-offset:2px}
+@media(max-width:960px){
+  body.mobile-menu-open{overflow:hidden}
+  .has-mega{display:grid;grid-template-columns:1fr auto;align-items:center;column-gap:2px}
+  .has-mega>.navlink::after{display:none}
+  nav.main.open>.has-mega>.navlink{min-height:44px;display:flex;align-items:center;padding-block:10px}
+  .mega-toggle{display:flex}
+  .has-mega.open>.mega-toggle::after{transform:rotate(225deg) translate(-2px,-2px)}
+  nav.main.open{max-height:calc(100vh - 72px);overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
+  .mega{display:block!important;grid-column:1/-1;position:static;width:auto;max-width:none;max-height:0;overflow:hidden;visibility:hidden;opacity:0;z-index:auto;background:transparent;border:0;border-radius:0;box-shadow:none;padding:0 12px;margin:0;transition:max-height .24s ease,padding .24s ease,opacity .18s ease,visibility 0s linear .24s}
+  .has-mega.open>.mega{max-height:600px;visibility:visible;opacity:1;padding:0 12px 4px;margin:2px 0 4px;transition:max-height .24s ease,padding .24s ease,opacity .18s ease}
+  .mega-c{grid-template-columns:1fr;row-gap:0}
+  .mega-t{margin:4px 0 4px}
+  .mega-c a{min-height:44px;display:flex;align-items:center}
+}
+
+/* MOBILE SIDE MENU: compact, readable expansion and restrained imagery */
+@media(max-width:960px){
+  nav.main.open{
+    gap:0;
+    padding:8px 18px 16px;
+    box-shadow:0 16px 36px rgba(22,31,26,.16);
+    overscroll-behavior-y:contain;
+  }
+  nav.main.open>div{
+    border-bottom:1px solid rgba(31,57,48,.10);
+  }
+  nav.main.open>div:last-child{border-bottom:0}
+  nav.main.open .navlink{
+    font-size:.92rem;
+    font-weight:700;
+    letter-spacing:.025em;
+  }
+  .has-mega{
+    column-gap:4px;
+  }
+  .mega-toggle{
+    width:46px;
+    height:46px;
+    margin:3px -8px 3px 0;
+    transition:background-color .18s ease;
+  }
+  .mega-toggle:active,
+  .mega-toggle[aria-expanded="true"]{
+    background:#f0e9d6;
+  }
+  .mega-toggle::after{
+    transition:transform .24s cubic-bezier(.2,.7,.3,1);
+  }
+  .mega{
+    grid-column:1/-1;
+    transition:max-height .32s cubic-bezier(.2,.7,.3,1),padding .32s ease,opacity .22s ease,visibility 0s linear .32s;
+  }
+  .has-mega.open>.mega{
+    max-height:520px;
+    padding:0 6px 10px;
+    transition:max-height .32s cubic-bezier(.2,.7,.3,1),padding .32s ease,opacity .22s ease;
+  }
+  .mega-layout{
+    display:grid;
+    grid-template-columns:1fr;
+    gap:0;
+    min-width:0;
+    width:100%;
+  }
+  .mega-layout>.mega-column+.mega-column,
+  .mega-layout>.mega-feature+.mega-column{
+    border-left:0;
+    padding-left:0;
+  }
+  .mega-column{min-width:0}
+  .mega-kicker{
+    margin:2px 0 5px;
+    font-size:.64rem;
+    letter-spacing:.13em;
+  }
+  .mega-country-grid,
+  .mega-links{
+    display:grid;
+    grid-template-columns:repeat(2,minmax(0,1fr));
+    gap:1px 8px;
+  }
+  .mega-country-grid a,
+  .mega-links a{
+    min-height:40px;
+    display:flex;
+    align-items:center;
+    padding:6px 8px;
+    white-space:normal;
+    overflow-wrap:normal;
+    word-break:normal;
+    border-bottom:0;
+    font-size:.82rem;
+    line-height:1.25;
+  }
+  .mega-feature,
+  .mega-image-card{
+    display:none!important;
+  }
+  .mega-view-all{
+    min-height:40px;
+    align-items:center;
+    margin-top:4px;
+  }
+}
+
+/* Premium shared navigation panels */
+@media(min-width:961px){
+  .nav{max-width:1280px}
+  .mega-layout{display:grid;gap:28px;min-width:760px}
+  .mega-destinations{grid-template-columns:minmax(250px,1.15fr) minmax(260px,.95fr) minmax(180px,.7fr)}
+  .mega-safaris{grid-template-columns:minmax(220px,.85fr) minmax(220px,.85fr) minmax(280px,1fr)}
+  .mega-discover{grid-template-columns:repeat(3,1fr)}
+  .mega-layout>.mega-column+.mega-column,.mega-layout>.mega-feature+.mega-column{border-left:1px solid var(--line);padding-left:28px}
+  .mega-kicker{margin:0 0 14px;color:#788078;font-size:.69rem;font-weight:800;letter-spacing:.16em;text-transform:uppercase}
+  .mega-country-grid{grid-column:auto;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:5px 18px}
+  .mega-country-grid a,.mega-links a{display:block;color:var(--char);font-size:.94rem;font-weight:600;text-decoration:none;padding:8px 0;border-bottom:1px solid rgba(0,0,0,.055)}
+  .mega-country-grid a:hover,.mega-links a:hover{color:var(--forest)}
+  .mega-view-all{display:inline-flex!important;gap:8px;color:var(--forest)!important;border-bottom:0!important;margin-top:12px;font-weight:800!important}
+  .mega-image-card{display:block;overflow:hidden;border-radius:10px;text-decoration:none;background:var(--char)}
+  .mega-image-card img{display:block;width:100%;height:150px;object-fit:cover;transition:transform .35s ease}
+  .mega-image-card:hover img{transform:scale(1.025)}
+  .mega-image-card span{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;padding:14px 16px;color:#fff}
+  .mega-image-card b{font-family:var(--font-d);font-size:1.15rem}
+  .mega-image-card small{color:#ddd4bd;text-transform:uppercase;font-size:.64rem;font-weight:800;letter-spacing:.08em}
+  .mega{top:calc(100% + 12px);left:50%;transform:translateX(-50%);width:950px;max-width:calc(100vw - 48px);padding:26px;border-radius:4px;box-shadow:0 22px 60px rgba(25,31,27,.18)}
+  .mega::before{content:"";position:absolute;left:0;right:0;top:-13px;height:13px}
+  .has-mega:hover>.mega,.has-mega:focus-within>.mega,.has-mega.open>.mega{display:block}
+  .mega-toggle{width:28px;height:28px}
+  .mega-toggle::after{width:5px;height:5px;border-width:0 1.5px 1.5px 0}
+  .mega-t{display:none}
+}
+@media(min-width:961px) and (max-width:1100px){
+  .mega-layout{min-width:680px;gap:20px}
+  .mega-destinations{grid-template-columns:1fr .9fr .75fr}
+  .mega{width:820px}
+  .navlink{font-size:.86rem;padding-inline:6px}
+}
+/* A comparison table cannot shrink narrower than the widest word in its own
+   columns, so on a phone a five-column .cmp table pushed the entire page
+   sideways and produced one long horizontal scrollbar over the whole screen.
+   The old `overflow:hidden` on table.cmp had no effect: overflow does not apply
+   to a display:table box.
+
+   Below 768px the table becomes a scroll container instead, so the page itself
+   keeps the viewport width and only the table swipes left/right inside its own
+   box. thead/tbody keep their table display types and still generate an
+   anonymous table box, so the columns stay aligned - only the wrapper
+   blockifies. Everything here is inside the media query, so every wider
+   viewport renders byte-for-byte as before. */
+@media (max-width:768px){
+  table.cmp,.art-table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch;max-width:100%}
+}
+
+/* 11. SHARED VERTICAL SPACING */
+/* Shared vertical rhythm. These rules deliberately apply to page content rather
+   than controls or the preserved navigation, hero and footer chrome. Inline
+   styles from older pages are constrained here so the whole site moves to one
+   spacing system without changing page copy. */
+section.block{padding-top:48px!important;padding-bottom:48px!important}
+main h1{margin:0 0 16px}
+main h2:not(.lead):not(.cardttl):not(.quizq){margin:0 0 14px}
+main h3:not(.cardttl){margin:0 0 12px}
+main h4,main h5,main h6{margin-top:0;margin-bottom:10px}
+main p:not(.eyebrow):not(.lead):not(.sub){margin:0 0 11px}
+main .lead{margin:0 0 18px}
+main ul,main ol{margin-top:0;margin-bottom:16px}
+main section.block .wrap> :first-child{margin-top:0!important}
+main section.block .wrap> :last-child{margin-bottom:0!important}
+main .grid{gap:20px}
+main .card .pad{padding:16px}
+main .card p:last-child{margin-bottom:0}
+main .ulgrid,main .ulgrid2{margin:10px 0 16px}
+main .cta-band{margin-top:20px}
+main .cta-band h2{margin-bottom:10px}
+main .cta-band>div>*:last-child{margin-bottom:0}
+
+@media (max-width:960px){
+  section.block{padding:28px 0!important}
+  main h1{margin-bottom:12px!important}
+  main h2:not(.lead):not(.cardttl):not(.quizq){margin-bottom:10px!important}
+  main h3:not(.cardttl){margin-bottom:10px!important}
+  main h4,main h5,main h6{margin-bottom:8px!important}
+  main p:not(.eyebrow):not(.lead):not(.sub){margin-bottom:9px!important}
+  main .lead{margin-bottom:14px!important}
+  main ul,main ol{margin-bottom:14px!important}
+  main .grid{gap:16px}
+  main .card .pad{padding:14px}
+  main .ulgrid,main .ulgrid2{margin:8px 0 12px}
+  main .cta-band{padding:24px;margin-top:16px}
+  main section.block .wrap>img{margin-top:16px!important;margin-bottom:16px!important}
+}

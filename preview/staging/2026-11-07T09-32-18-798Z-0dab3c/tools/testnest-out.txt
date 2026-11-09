@@ -1,0 +1,1 @@
+single-nested-strings=3 multi-nested-strings=2 nested-hash=2 comma-nested=1

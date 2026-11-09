@@ -1,0 +1,9 @@
+{
+  "name": "adventure-safari-africa-phase5",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "audit": "node run-audit.js",
+    "test": "node --test test-phase5.js"
+  }
+}

@@ -1,0 +1,6 @@
+L35: Unexpected token 'to' in expression or statement.
+L40: Unexpected token 'pkgs' in expression or statement.
+L40: Missing closing ')' in expression.
+L20: Missing closing '}' in statement block or type definition.
+L40: Unexpected token ')' in expression or statement.
+L40: The string is missing the terminator: ".

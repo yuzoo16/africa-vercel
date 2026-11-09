@@ -1,0 +1,26 @@
+{
+  "name": "adventure-safari-africa-cms-api",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js",
+    "inventory": "node ../scripts/inventory-website.mjs",
+    "migrate": "node src/migrate.js",
+    "db:import-json": "node src/importJsonToPostgres.js",
+    "db:verify": "node src/verifyDatabase.js",
+    "bootstrap:admin": "node src/bootstrapAdministrator.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "bcryptjs": "^3.0.2",
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0",
+    "express-rate-limit": "^7.5.0",
+    "helmet": "^8.1.0",
+    "dotenv": "^16.5.0",
+    "multer": "^2.0.2",
+    "pg": "^8.16.3"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "stubs": [
+    {
+      "from": "/great-migration-safari/",
+      "to": "/tanzania-migration-safari/",
+      "status": 301
+    },
+    {
+      "from": "/de/great-migration-safari/",
+      "to": "/de/tanzania-migration-safari/",
+      "status": 301
+    },
+    {
+      "from": "/fr/great-migration-safari/",
+      "to": "/fr/tanzania-migration-safari/",
+      "status": 301
+    },
+    {
+      "from": "/es/great-migration-safari/",
+      "to": "/es/tanzania-migration-safari/",
+      "status": 301
+    },
+    {
+      "from": "/it/great-migration-safari/",
+      "to": "/it/tanzania-migration-safari/",
+      "status": 301
+    }
+  ],
+  "host": "www.adventuresafariafrica.com",
+  "bare": "adventuresafariafrica.com"
+}

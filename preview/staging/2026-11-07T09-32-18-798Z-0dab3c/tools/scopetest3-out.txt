@@ -1,0 +1,3 @@
+HUB-after-hub-assign=String
+IMG-after-im-assign=Hashtable
+func-read= HUB-after-func=String

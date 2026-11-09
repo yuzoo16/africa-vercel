@@ -1,0 +1,3 @@
+FOO-after-foo-assign=String
+BAR-after-bar2-assign=Hashtable
+func-result=v BAZ-after=Hashtable

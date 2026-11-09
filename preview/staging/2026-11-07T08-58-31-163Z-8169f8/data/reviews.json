@@ -1,0 +1,6 @@
+{"_readme":"Genuine traveler reviews ONLY. Add real reviews with verified source. aggregate: leave reviewCountText empty until you have a verified total; platforms: your profile URLs.",
+"aggregate":{"reviewCountText":"","googleUrl":"","tripadvisorUrl":"","safaribookingsUrl":"","facebookUrl":""},
+"reviews":[
+{"name":"Hannah & Tom","country":"United Kingdom","trip":"7-Day Tanzania Safari","date":"2026-08","source":"Direct guest feedback","rating":5,"text":"Our guide repositioned us ahead of a river crossing - we watched it with three vehicles, not thirty."},
+{"name":"Marco","country":"Italy","trip":"3-Day Uganda Gorilla Trek","date":"2026-07","source":"Direct guest feedback","rating":5,"text":"The gorilla trek briefing was honest about difficulty. We trained, we made it, unforgettable."},
+{"name":"The Dupont family","country":"France","trip":"7-Day Kenya Safari","date":"2026-08","source":"Direct guest feedback","rating":5,"text":"Kids still talk about the Maasai guide and the night skies. Flawless logistics."}]}

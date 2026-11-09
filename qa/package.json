@@ -1,0 +1,9 @@
+{
+  "name": "adventure-safari-africa-phase6",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "acceptance": "node run-acceptance.js",
+    "test": "node --test test-phase6.js"
+  }
+}

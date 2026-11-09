@@ -1,0 +1,9 @@
+{
+  "name": "adventure-safari-africa-phase4",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "prepare-release": "node prepare-release.js",
+    "test": "node --test test-phase4.js"
+  }
+}

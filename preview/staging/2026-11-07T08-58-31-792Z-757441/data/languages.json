@@ -1,0 +1,8 @@
+{"_readme":"Language registry. Add a language by appending an entry: code, label, flag emoji, home path, tanzania hub path. Switcher, hreflang and docs read this file.",
+"default":"en",
+"languages":[
+{"code":"en","label":"English","flag":"GB","home":"/","tanzania":"/tanzania-safari/"},
+{"code":"it","label":"Italiano","flag":"IT","home":"/it/","tanzania":"/it/tanzania-safari/"},
+{"code":"fr","label":"Francais","flag":"FR","home":"/fr/","tanzania":"/fr/tanzania-safari/"},
+{"code":"de","label":"Deutsch","flag":"DE","home":"/de/","tanzania":"/de/tanzania-safari/"},
+{"code":"es","label":"Espanol","flag":"ES","home":"/es/","tanzania":"/es/tanzania-safari/"}]}

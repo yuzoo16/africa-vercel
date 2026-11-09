@@ -1,0 +1,7 @@
+tokens=70
+COL 1033 TYPE=StatementSeparator TEXT=[;]
+COL 1034 TYPE=String TEXT=[a]
+COL 1037 TYPE=Operator TEXT=[=]
+COL 1038 TYPE=Operator TEXT=[>]
+COL 1039 TYPE=String TEXT=[Angolan rains take months to arrive: peak water June to August, long after local rains ended. Plan mokoro trips accordingly.]
+TOK-DONE

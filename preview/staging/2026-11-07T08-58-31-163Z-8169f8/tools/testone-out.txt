@@ -1,0 +1,2 @@
+STUB-OK slug=okavango-delta safaris=5 faqs=1
+CALL-OK

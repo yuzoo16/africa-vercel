@@ -1,0 +1,69 @@
+{
+  "auditedAt": "2026-11-05T13:19:16.385Z",
+  "totalChecks": 12,
+  "passed": 12,
+  "failed": 0,
+  "status": "ready-with-gates",
+  "checks": [
+    {
+      "id": "inventory-total",
+      "passed": true,
+      "detail": "1458 inventory pages"
+    },
+    {
+      "id": "inventory-en",
+      "passed": true,
+      "detail": "318 pages"
+    },
+    {
+      "id": "inventory-de",
+      "passed": true,
+      "detail": "285 pages"
+    },
+    {
+      "id": "inventory-fr",
+      "passed": true,
+      "detail": "285 pages"
+    },
+    {
+      "id": "inventory-es",
+      "passed": true,
+      "detail": "285 pages"
+    },
+    {
+      "id": "inventory-it",
+      "passed": true,
+      "detail": "285 pages"
+    },
+    {
+      "id": "dashboard-build",
+      "passed": true,
+      "detail": "dashboard production output exists"
+    },
+    {
+      "id": "publisher-manifest",
+      "passed": true,
+      "detail": "staging publisher output exists"
+    },
+    {
+      "id": "phase5-report",
+      "passed": true,
+      "detail": "SEO audit report exists"
+    },
+    {
+      "id": "phase4-release",
+      "passed": true,
+      "detail": "release output exists"
+    },
+    {
+      "id": "legacy-not-deployed",
+      "passed": true,
+      "detail": "no production-live marker exists"
+    },
+    {
+      "id": "backend-syntax",
+      "passed": true,
+      "detail": "server.js syntax valid"
+    }
+  ]
+}
