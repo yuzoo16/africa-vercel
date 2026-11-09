@@ -5,11 +5,17 @@ import { createWriteStream } from "node:fs";
 import archiver from "archiver";
 
 export class StaticPublisher {
-  constructor({ projectRoot = path.resolve(process.cwd(), ".."), now = () => new Date(), store = null } = {}) {
+  constructor({
+    projectRoot = path.resolve(process.cwd(), ".."),
+    outputRoot = projectRoot,
+    now = () => new Date(),
+    store = null
+  } = {}) {
     this.projectRoot = projectRoot;
+    this.outputRoot = outputRoot;
     this.now = now;
     this.websiteRoot = path.join(projectRoot, "Africa Safari");
-    this.stagingRoot = path.join(projectRoot, "preview", "staging");
+    this.stagingRoot = path.join(outputRoot, "preview", "staging");
     this.inventoryFile = path.join(projectRoot, "documentation", "inventory", "website-inventory.json");
     this.store = store;
   }
@@ -42,10 +48,14 @@ export class StaticPublisher {
   async applyPublishedContent(buildRoot) {
     const pages = await this.store.publishedWebsitePages();
     for (const page of pages) {
-      const source = path.join(buildRoot, page.sourcePath);
       if (!page.sourcePath) continue;
       if (page.status !== "published") {
         continue;
+      }
+      const source = path.resolve(buildRoot, page.sourcePath);
+      const relativeSource = path.relative(buildRoot, source);
+      if (relativeSource === ".." || relativeSource.startsWith(`..${path.sep}`) || path.isAbsolute(relativeSource)) {
+        throw new Error(`Published page source path escapes the build directory: ${page.sourcePath}`);
       }
       let html = await readFile(source, "utf8");
       html = this.replaceHead(html, page);
@@ -56,7 +66,7 @@ export class StaticPublisher {
 
   async publishLive(buildId) {
     const source = path.join(this.stagingRoot, buildId);
-    const liveRoot = path.join(this.projectRoot, "preview", "live");
+    const liveRoot = path.join(this.outputRoot, "preview", "live");
     await stat(source).catch(() => { throw new Error("Build does not exist"); });
     await rm(liveRoot, { recursive: true, force: true });
     await mkdir(liveRoot, { recursive: true });
@@ -67,7 +77,7 @@ export class StaticPublisher {
   async exportZip(buildId) {
     const source = path.join(this.stagingRoot, buildId);
     await stat(path.join(source, "build-manifest.json"));
-    const exportRoot = path.join(this.projectRoot, "exports");
+    const exportRoot = path.join(this.outputRoot, "exports");
     await mkdir(exportRoot, { recursive: true });
     const zipPath = path.join(exportRoot, `${buildId}.zip`);
     await new Promise((resolve, reject) => {
@@ -113,8 +123,12 @@ export class StaticPublisher {
         continue;
       }
       const output = path.join(buildRoot, page.sourcePath);
-      await mkdir(path.dirname(output), { recursive: true });
-      await writeFile(output, html);
+      try {
+        html = await readFile(output, "utf8");
+      } catch {
+        await mkdir(path.dirname(output), { recursive: true });
+        await writeFile(output, html);
+      }
 
       const missing = [...html.matchAll(/(?:href|src)=["']([^"'#?]+)["']/gi)]
         .map((match) => match[1])
