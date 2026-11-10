@@ -1,10 +1,8 @@
 {
+  "$schema": "https://openapi.vercel.sh/vercel.json",
   "functions": {
     "api/publish.js": {
-      "includeFiles": [
-        "Africa Safari/**",
-        "documentation/inventory/website-inventory.json"
-      ],
+      "includeFiles": "{Africa Safari/**,documentation/inventory/website-inventory.json}",
       "maxDuration": 60
     }
   }
